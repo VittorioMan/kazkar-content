@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "myshenya_misyats",
+      "title": "Мишеня і срібний місяць",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/myshenya_misyats/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "kozenya_hora",
+      "title": "Козеня і найвища гора",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/kozenya_hora/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "yenotyk_khmarka",
+      "title": "Єнотик і сердита хмарка",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/yenotyk_khmarka/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "lysenya_maliatko",
+      "title": "Лисеня і маленьке диво",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/lysenya_maliatko/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    }
+  ]
+}
