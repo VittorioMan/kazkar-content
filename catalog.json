@@ -32,6 +32,62 @@
       "cover": "cover.jpg",
       "free": true,
       "version": 1
+    },
+    {
+      "id": "cherepashka_kvitka",
+      "title": "Черепашка і місячна квітка",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/cherepashka_kvitka/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "svitlyachok_likhtaryk",
+      "title": "Ліхтарик світлячка",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/svitlyachok_likhtaryk/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "olenyatko_lyst",
+      "title": "Оленятко і осінній лист",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/olenyatko_lyst/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "koshenya_hlechyk",
+      "title": "Кошеня і розбитий глечик",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/koshenya_hlechyk/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "krotyk_velykyi_svit",
+      "title": "Кротик і великий світ нагорі",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/krotyk_velykyi_svit/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "tsucenya_pomichnyk",
+      "title": "Маленький помічник",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/tsucenya_pomichnyk/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "lelechenya_polit",
+      "title": "Перший політ лелеченяти",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/lelechenya_polit/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
     }
   ]
 }
