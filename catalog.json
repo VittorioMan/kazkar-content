@@ -95,12 +95,28 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/yahnyatko_obiymy/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 1
+      "version": 2
     },
     {
       "id": "bilchenya_horishky",
       "title": "Білченя і повна комора",
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/bilchenya_horishky/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "vydryk_kupil",
+      "title": "Хлюп-хлюп перед сном",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/vydryk_kupil/",
+      "cover": "cover.jpg",
+      "free": true,
+      "version": 1
+    },
+    {
+      "id": "bobrenya_khatka",
+      "title": "Бобреня будує хатку",
+      "baseUrl": "https://vittorioman.github.io/kazkar-content/books/bobrenya_khatka/",
       "cover": "cover.jpg",
       "free": true,
       "version": 1
