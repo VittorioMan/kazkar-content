@@ -7,99 +7,123 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a little red fox kit with a white-tipped tail, white socks on every paw, and curious amber eyes. The fox kit lives in a cozy den beneath the roots of an old oak tree. The kit's tail is soft and fluffy, and that little nose is the most curious nose in the whole forest. {name} loves to listen to the old oak rustling its leaves above the den."
+      "text": "This is {name}. {name} is a little red fox kit with a white-tipped tail, white socks on every paw, and curious amber eyes. The fox kit lives in a cozy den beneath the roots of an old oak tree. The kit's tail is soft and fluffy, and that little nose is the most curious nose in the whole forest. {name} loves to listen to the old oak rustling its leaves above the den.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "The den beneath the roots is warm and soft, smelling of dry leaves and pine. Every evening Mama Fox sings a quiet little song, and {name} falls asleep snuggled right against her side. Mama's voice is soft as moss and warm as a summer evening. The fox kit curls up in a little ball, and sleep comes all by itself — quiet and sweet. Every night here feels like one long, cozy lullaby."
+      "text": "The den beneath the roots is warm and soft, smelling of dry leaves and pine. Every evening Mama Fox sings a quiet little song, and {name} falls asleep snuggled right against her side. Mama's voice is soft as moss and warm as a summer evening. The fox kit curls up in a little ball, and sleep comes all by itself — quiet and sweet. Every night here feels like one long, cozy lullaby.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "One morning, the den feels strangely quiet and strangely special. In the soft nest sleeps a tiny new baby — warm and small as a mitten. {name} peeks closer and blinks those amber eyes in wonder. \"Where did you come from, little one?\" {name} whispers in amazement. The fox kit's whiskers tremble with curiosity, and the soft little snuffles make the den feel even warmer."
+      "text": "One morning, the den feels strangely quiet and strangely special. In the soft nest sleeps a tiny new baby — warm and small as a mitten. {name} peeks closer and blinks those amber eyes in wonder. \"Where did you come from, little one?\" {name} whispers in amazement. The fox kit's whiskers tremble with curiosity, and the soft little snuffles make the den feel even warmer.",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "Now Mama is with the baby every single minute. She rocks the little one, keeps the little one warm, and sings the old evening song — only very softly now, and not for the fox kit. The song is the same, but somehow it doesn't feel as warm from far away. {name} listens from the side, and their fluffy tail droops all by itself. A small cloud seems to settle inside the fox kit's chest. The little fox sighs quietly and presses those soft ears down low."
+      "text": "Now Mama is with the baby every single minute. She rocks the little one, keeps the little one warm, and sings the old evening song — only very softly now, and not for the fox kit. The song is the same, but somehow it doesn't feel as warm from far away. {name} listens from the side, and their fluffy tail droops all by itself. A small cloud seems to settle inside the fox kit's chest. The little fox sighs quietly and presses those soft ears down low.",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "{name} finds the shiniest pebble in the whole forest and carries it home to show Mama. The pebble sparkles like a little drop of sunshine, and the fox kit's tail bounces with joy. \"Hush now, hush,\" Mama whispers. \"The baby has only just fallen asleep.\" And suddenly the pebble doesn't look so shiny after all. The fox kit stands very, very still, feeling a little empty inside."
+      "text": "{name} finds the shiniest pebble in the whole forest and carries it home to show Mama. The pebble sparkles like a little drop of sunshine, and the fox kit's tail bounces with joy. \"Hush now, hush,\" Mama whispers. \"The baby has only just fallen asleep.\" And suddenly the pebble doesn't look so shiny after all. The fox kit stands very, very still, feeling a little empty inside.",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "\"Everyone has forgotten about me,\" thinks {name}, and their nose prickles like dandelion fluff. Nobody notices the shiny pebble, or the droopy tail. Even the little whiskers droop down sadly. So the fox kit decides: it is time to find a place where little foxes always get noticed. \"I will go and find it,\" {name} whispers softly. It is a slightly brave thought — and a very, very determined one."
+      "text": "\"Everyone has forgotten about me,\" thinks {name}, and their nose prickles like dandelion fluff. Nobody notices the shiny pebble, or the droopy tail. Even the little whiskers droop down sadly. So the fox kit decides: it is time to find a place where little foxes always get noticed. \"I will go and find it,\" {name} whispers softly. It is a slightly brave thought — and a very, very determined one.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "Early in the morning, {name} slips quietly out of the den — only the white tip of a tail flickers between the ferns. The forest breathes with dew and cool morning air. Dewdrops brush the little paws — fresh, cool, and full of morning. {name} sniffs the air: the morning smells of fresh grass and great adventure. Somewhere out there must be a place where a fox kit truly gets noticed!"
+      "text": "Early in the morning, {name} slips quietly out of the den — only the white tip of a tail flickers between the ferns. The forest breathes with dew and cool morning air. Dewdrops brush the little paws — fresh, cool, and full of morning. {name} sniffs the air: the morning smells of fresh grass and great adventure. Somewhere out there must be a place where a fox kit truly gets noticed!",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "First comes the secret path between the tall ferns — the one that only {name} knows. The leaves tickle their nose, and the path winds along like a green tunnel. The ferns whisper overhead, as if greeting an old friend. Every soft step sounds like a tiny secret. Even the air here smells like adventure. The fluffy tail sways proudly: nobody, nobody else knows this path!"
+      "text": "First comes the secret path between the tall ferns — the one that only {name} knows. The leaves tickle their nose, and the path winds along like a green tunnel. The ferns whisper overhead, as if greeting an old friend. Every soft step sounds like a tiny secret. Even the air here smells like adventure. The fluffy tail sways proudly: nobody, nobody else knows this path!",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "Right in the middle of the green tunnel, {name} suddenly stops. The baby doesn't know this path at all — not one little bit! The thought flutters inside the fox kit's chest, warm and tickly and brand new. The little fox even glances back, as if the baby might be pattering along behind. But no — only the ferns sway their leaves quietly. {name} smiles into those little whiskers: the thought stays right there, glowing warm inside."
+      "text": "Right in the middle of the green tunnel, {name} suddenly stops. The baby doesn't know this path at all — not one little bit! The thought flutters inside the fox kit's chest, warm and tickly and brand new. The little fox even glances back, as if the baby might be pattering along behind. But no — only the ferns sway their leaves quietly. {name} smiles into those little whiskers: the thought stays right there, glowing warm inside.",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "Next comes a sunny clearing where the sweetest wild strawberries in the forest grow. The sun warms the fox kit's back, and the grass gently strokes that little tummy. {name} picks one little berry — and it tastes like summer itself. The strawberries smell so sweet that the little nose starts to dance. \"Oh, if only the baby could see where the reddest ones grow,\" whispers a small voice deep inside."
+      "text": "Next comes a sunny clearing where the sweetest wild strawberries in the forest grow. The sun warms the fox kit's back, and the grass gently strokes that little tummy. {name} picks one little berry — and it tastes like summer itself. The strawberries smell so sweet that the little nose starts to dance. \"Oh, if only the baby could see where the reddest ones grow,\" whispers a small voice deep inside.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "Beyond the clearing waits the best puddle in the whole world — round and warm, with little clouds floating inside it. {name} takes a running leap: Splash! The drops fly all the way up to their ears, but somehow laughing all alone sounds a little quieter. The water plips and plops playfully around the little paws, warm as Mama's song. The fox kit watches the clouds in the water — they drift by ever so slowly. If only someone were here to shout: \"Again! Again!\""
+      "text": "Beyond the clearing waits the best puddle in the whole world — round and warm, with little clouds floating inside it. {name} takes a running leap: Splash! The drops fly all the way up to their ears, but somehow laughing all alone sounds a little quieter. The water plips and plops playfully around the little paws, warm as Mama's song. The fox kit watches the clouds in the water — they drift by ever so slowly. If only someone were here to shout: \"Again! Again!\"",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "By the puddle hops a young hare named Flop, with his tiny little sisters all around him. He shows them how to jump the farthest of all, and they gaze up at him like a true hero. \"Watch me — like this!\" calls Flop, and his sisters clap their little paws with delight. Their laughter rings out like drops of dew. How happy they are together! {name} watches from the side — and something stirs warmly inside."
+      "text": "By the puddle hops a young hare named Flop, with his tiny little sisters all around him. He shows them how to jump the farthest of all, and they gaze up at him like a true hero. \"Watch me — like this!\" calls Flop, and his sisters clap their little paws with delight. Their laughter rings out like drops of dew. How happy they are together! {name} watches from the side — and something stirs warmly inside.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "\"Being the big one is the best job in the forest,\" says Flop, proudly straightening his long ears. \"I find the paths first, and I get to show my sisters every single wonder first!\" \"And big ones get the very tightest hugs in the whole forest,\" the hare adds with a merry laugh. {name} listens very, very carefully. The fox kit's ears perk right up, and a very important thought begins to grow inside."
+      "text": "\"Being the big one is the best job in the forest,\" says Flop, proudly straightening his long ears. \"I find the paths first, and I get to show my sisters every single wonder first!\" \"And big ones get the very tightest hugs in the whole forest,\" the hare adds with a merry laugh. {name} listens very, very carefully. The fox kit's ears perk right up, and a very important thought begins to grow inside.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "On a warm tree stump, {name} sits very still and thinks about the baby. The stump is warm from the sunshine, and the thoughts grow warmer one by one. That tiny black nose, paws like flower petals, the sleepy little snuffle: puff, puff. \"And the baby has never even seen a strawberry,\" {name} marvels quietly. And the fox kit's heart turns as soft as the moss underfoot."
+      "text": "On a warm tree stump, {name} sits very still and thinks about the baby. The stump is warm from the sunshine, and the thoughts grow warmer one by one. That tiny black nose, paws like flower petals, the sleepy little snuffle: puff, puff. \"And the baby has never even seen a strawberry,\" {name} marvels quietly. And the fox kit's heart turns as soft as the moss underfoot.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "And then all the thoughts click together like a puzzle! The fox kit has a whole treasure box: a secret path, the sweetest strawberries, and the finest puddle in the world. {name} knows so many forest wonders — and every one of them is waiting for the baby. So this is the real miracle: being the big one means sharing! The little ears perk up, and the fluffy tail spins like a top. {name} fairly hops with joy."
+      "text": "And then all the thoughts click together like a puzzle! The fox kit has a whole treasure box: a secret path, the sweetest strawberries, and the finest puddle in the world. {name} knows so many forest wonders — and every one of them is waiting for the baby. So this is the real miracle: being the big one means sharing! The little ears perk up, and the fluffy tail spins like a top. {name} fairly hops with joy.",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "\"Home!\" — and {name} dashes back through the ferns, the white tail-tip waving like a little flag. The paws fly all by themselves, and the little heart bounces along in time. The breeze whistles past those ears: faster, faster! The forest rustles along, cheerful and glad. This time the fox kit is not running away from the den — but straight toward it, as fast as paws can go!"
+      "text": "\"Home!\" — and {name} dashes back through the ferns, the white tail-tip waving like a little flag. The paws fly all by themselves, and the little heart bounces along in time. The breeze whistles past those ears: faster, faster! The forest rustles along, cheerful and glad. This time the fox kit is not running away from the den — but straight toward it, as fast as paws can go!",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "At the sunny clearing, {name} stops for just one minute. The ripest, reddest strawberry is laid upon a wide green leaf — a present for the baby. The very first present from the older fox kit. The little berry smells of sunshine and summer. {name} lifts the leaf ever so carefully, like the greatest treasure of all. \"Just don't fall off, little berry,\" whispers the fox kit."
+      "text": "At the sunny clearing, {name} stops for just one minute. The ripest, reddest strawberry is laid upon a wide green leaf — a present for the baby. The very first present from the older fox kit. The little berry smells of sunshine and summer. {name} lifts the leaf ever so carefully, like the greatest treasure of all. \"Just don't fall off, little berry,\" whispers the fox kit.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "By evening the forest turns golden, and the familiar smell of home comes tickling that little nose. There is the old oak, there are the dear old roots beneath it. Home smells of dry leaves, of pine, and of Mama's little song. The paws hurry along all by themselves. A happy heart drums along: tap-tap, ta-dum!"
+      "text": "By evening the forest turns golden, and the familiar smell of home comes tickling that little nose. There is the old oak, there are the dear old roots beneath it. Home smells of dry leaves, of pine, and of Mama's little song. The paws hurry along all by themselves. A happy heart drums along: tap-tap, ta-dum!",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "By the den's doorway stands Mama Fox, watching the path. The moment she spots the red fur, she rushes forward first. \"I was so worried, my little sunshine!\" — and her nose nuzzles softly against one small ear. \"I'm home, Mama,\" {name} whispers softly. Being close to Mama feels as warm as the whole den at once, and the little cloud in the fox kit's chest melts away without a trace."
+      "text": "By the den's doorway stands Mama Fox, watching the path. The moment she spots the red fur, she rushes forward first. \"I was so worried, my little sunshine!\" — and her nose nuzzles softly against one small ear. \"I'm home, Mama,\" {name} whispers softly. Being close to Mama feels as warm as the whole den at once, and the little cloud in the fox kit's chest melts away without a trace.",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "\"I never, ever forget about you,\" Mama says quietly. \"My love is like the stars above the forest — enough for you, enough for the baby, and still some left over.\" {name} buries their nose deep in Mama's soft warm fur. The fur smells of home — the dearest smell in the whole world. The fox kit listens to Mama's heart beating, soft and steady, and everything inside grows calm and still."
+      "text": "\"I never, ever forget about you,\" Mama says quietly. \"My love is like the stars above the forest — enough for you, enough for the baby, and still some left over.\" {name} buries their nose deep in Mama's soft warm fur. The fur smells of home — the dearest smell in the whole world. The fox kit listens to Mama's heart beating, soft and steady, and everything inside grows calm and still.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "In the nest, the baby opens two round eyes, shiny as dewdrops. {name} gently reaches out a paw, and tiny little paws wrap around it, oh so tight. Oh, how warm this little one is! \"Hello, tiny one. It's me, your big fox kit,\" whispers {name}. The baby snuffles softly in reply, as if saying hello. And the warmth of those tiny paws spreads all the way to the tip of the fox kit's tail."
+      "text": "In the nest, the baby opens two round eyes, shiny as dewdrops. {name} gently reaches out a paw, and tiny little paws wrap around it, oh so tight. Oh, how warm this little one is! \"Hello, tiny one. It's me, your big fox kit,\" whispers {name}. The baby snuffles softly in reply, as if saying hello. And the warmth of those tiny paws spreads all the way to the tip of the fox kit's tail.",
+      "audio": "en_p21.mp3"
     },
     {
       "image": "p22.jpg",
-      "text": "\"I will show you the secret path,\" {name} whispers to the baby. \"And the strawberries, and the best puddle in the whole wide world. Just grow a little first.\" \"And I will teach you to jump the puddle — splash, with drops flying right up to your ears!\" The baby listens quietly and holds on tight, tight. The little one snuffles softly, as if promising to grow up big and strong. {name} nuzzles close to the baby. And the warm den feels cozier than ever before."
+      "text": "\"I will show you the secret path,\" {name} whispers to the baby. \"And the strawberries, and the best puddle in the whole wide world. Just grow a little first.\" \"And I will teach you to jump the puddle — splash, with drops flying right up to your ears!\" The baby listens quietly and holds on tight, tight. The little one snuffles softly, as if promising to grow up big and strong. {name} nuzzles close to the baby. And the warm den feels cozier than ever before.",
+      "audio": "en_p22.mp3"
     },
     {
       "image": "p23.jpg",
-      "text": "Mama Fox opens her arms wide, wide, and gathers both little ones in at once. {name} sits inside the warm hug right beside the baby, and the den grows as bright as a summer clearing. Inside the hug it is quiet, warm, and ever so cozy. Mama hums the old familiar song — now for both of her little foxes. There really is enough love for everyone."
+      "text": "Mama Fox opens her arms wide, wide, and gathers both little ones in at once. {name} sits inside the warm hug right beside the baby, and the den grows as bright as a summer clearing. Inside the hug it is quiet, warm, and ever so cozy. Mama hums the old familiar song — now for both of her little foxes. There really is enough love for everyone.",
+      "audio": "en_p23.mp3"
     },
     {
       "image": "p24.jpg",
-      "text": "Outside, the forest falls softly asleep, and inside the den the baby snuffles gently. {name} drifts off close by — no longer the littlest fox, but the big one now, with a whole treasure box of wonders for tomorrow. Little eyes close all by themselves, and sleepy paws twitch softly — perhaps already running down the secret path. Mama's song melts into the hush, gentle as whispering leaves. Good night, sweet little fox!"
+      "text": "Outside, the forest falls softly asleep, and inside the den the baby snuffles gently. {name} drifts off close by — no longer the littlest fox, but the big one now, with a whole treasure box of wonders for tomorrow. Little eyes close all by themselves, and sleepy paws twitch softly — perhaps already running down the secret path. Mama's song melts into the hush, gentle as whispering leaves. Good night, sweet little fox!",
+      "audio": "en_p24.mp3"
     }
   ]
 }

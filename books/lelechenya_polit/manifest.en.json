@@ -7,99 +7,123 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a small white little stork with black wingtips and a bright orange beak. High in an old willow, above a calm river, sits that cozy, twiggy nest. It is woven from soft twigs, and inside it is as snug as a cradle. From below comes the quiet lapping of water, and the willow leaves whisper gently. {name} listens to these sounds every day — and they sound like home."
+      "text": "This is {name}. {name} is a small white little stork with black wingtips and a bright orange beak. High in an old willow, above a calm river, sits that cozy, twiggy nest. It is woven from soft twigs, and inside it is as snug as a cradle. From below comes the quiet lapping of water, and the willow leaves whisper gently. {name} listens to these sounds every day — and they sound like home.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "Each morning the mother stork circles over the meadow and brings something tasty home. \"Eat up, little one,\" she clatters gently. And {name} peeks over the edge of the nest, watching the river shine below. Little sunbeams hop across the water as if playing tag. The warm smell of grass and water is everywhere. {name} admires the mother's wide wings and thinks: how big and strong they are."
+      "text": "Each morning the mother stork circles over the meadow and brings something tasty home. \"Eat up, little one,\" she clatters gently. And {name} peeks over the edge of the nest, watching the river shine below. Little sunbeams hop across the water as if playing tag. The warm smell of grass and water is everywhere. {name} admires the mother's wide wings and thinks: how big and strong they are.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "All the other little storks around are already learning to fly. They flap their wings and sail over the meadow like little white kerchiefs on the wind. Their merry clatter drifts down from above — how happy they sound up in the sky. Only {name} holds tight to the edge of the nest. {name} follows the friends with those curious eyes and sighs softly. Flying must be wonderful — but watching from the cozy nest is lovely too."
+      "text": "All the other little storks around are already learning to fly. They flap their wings and sail over the meadow like little white kerchiefs on the wind. Their merry clatter drifts down from above — how happy they sound up in the sky. Only {name} holds tight to the edge of the nest. {name} follows the friends with those curious eyes and sighs softly. Flying must be wonderful — but watching from the cozy nest is lovely too.",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "{name} spreads those little wings and looks down. The ground is so far away, and the wind is so big. The wind tickles those soft feathers and calls quietly: come on, just try! But the little feet hold on ever so tightly to the dear branch. \"I'll wait just a little longer,\" {name} whispers. That little heart taps softly: thump-thump-thump."
+      "text": "{name} spreads those little wings and looks down. The ground is so far away, and the wind is so big. The wind tickles those soft feathers and calls quietly: come on, just try! But the little feet hold on ever so tightly to the dear branch. \"I'll wait just a little longer,\" {name} whispers. That little heart taps softly: thump-thump-thump.",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "\"There's no rush,\" the mother stork says gently. \"Your wings are ready, and the courage will come on its own.\" {name} nods and snuggles closer into the warm feathers. The mother's feathers smell of sunshine and summer wind. Close beside her, that little heart beats steadier and calmer right away. \"The courage will come on its own,\" {name} repeats in a whisper, and the words feel warm all over."
+      "text": "\"There's no rush,\" the mother stork says gently. \"Your wings are ready, and the courage will come on its own.\" {name} nods and snuggles closer into the warm feathers. The mother's feathers smell of sunshine and summer wind. Close beside her, that little heart beats steadier and calmer right away. \"The courage will come on its own,\" {name} repeats in a whisper, and the words feel warm all over.",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "In a corner of the nest, {name} keeps the most treasured thing of all — a small white feather. It is soft and gentle, like a little cloud. That feather once drifted down from the mother's wing — the warmest treasure in the whole nest. {name} strokes it with that orange beak and smiles quietly. When the wind rocks the willow, {name} whispers little secrets to the feather. And it truly seems the feather is listening."
+      "text": "In a corner of the nest, {name} keeps the most treasured thing of all — a small white feather. It is soft and gentle, like a little cloud. That feather once drifted down from the mother's wing — the warmest treasure in the whole nest. {name} strokes it with that orange beak and smiles quietly. When the wind rocks the willow, {name} whispers little secrets to the feather. And it truly seems the feather is listening.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "Then all at once a warm wind sweeps in — whoosh! It scoops up the treasured feather and carries it right out of the nest. {name} gasps and reaches after it with that little beak. \"Wait, oh wait!\" {name} calls to the wind. But the wind only plays, twirling the feather above the branches, higher and higher. That little heart beats ever so fast inside."
+      "text": "Then all at once a warm wind sweeps in — whoosh! It scoops up the treasured feather and carries it right out of the nest. {name} gasps and reaches after it with that little beak. \"Wait, oh wait!\" {name} calls to the wind. But the wind only plays, twirling the feather above the branches, higher and higher. That little heart beats ever so fast inside.",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "The feather drifts out over the water — farther and farther, toward the other side of the river. {name} stretches that little neck so as not to lose sight of it. The white speck grows smaller and smaller, like a tiny snowflake. {name} watches it melt into the blue sky. Will it be gone forever? \"Don't disappear, little feather,\" {name} whispers. \"I'll think of something.\""
+      "text": "The feather drifts out over the water — farther and farther, toward the other side of the river. {name} stretches that little neck so as not to lose sight of it. The white speck grows smaller and smaller, like a tiny snowflake. {name} watches it melt into the blue sky. Will it be gone forever? \"Don't disappear, little feather,\" {name} whispers. \"I'll think of something.\"",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "\"Catch it, quick!\" a little green frog croaks cheerfully from a leaf below. \"You have wings, you know!\" she adds encouragingly. {name} takes a deep breath of the warm air. The river sparkles below, as if it is waiting too. The feather is already almost over the far bank. {name} looks down at those little white wings: what if it really works?"
+      "text": "\"Catch it, quick!\" a little green frog croaks cheerfully from a leaf below. \"You have wings, you know!\" she adds encouragingly. {name} takes a deep breath of the warm air. The river sparkles below, as if it is waiting too. The feather is already almost over the far bank. {name} looks down at those little white wings: what if it really works?",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "{name} remembers the mother stork's words: the wings are ready. Home is safe in that little heart, and the feather is calling. The little feet still tremble, but something warm and bright is growing inside. {name} spreads those wings as wide as they will go. One deep breath in — and one quiet breath out. And {name} takes one brave step off the edge of the nest."
+      "text": "{name} remembers the mother stork's words: the wings are ready. Home is safe in that little heart, and the feather is calling. The little feet still tremble, but something warm and bright is growing inside. {name} spreads those wings as wide as they will go. One deep breath in — and one quiet breath out. And {name} takes one brave step off the edge of the nest.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "The little wings open wide, wide — and suddenly they hold! {name} glides through the air, light as that very feather. \"I'm flying! I'm really flying!\" {name} calls out brightly. The air smells of river and sunshine, and everything around drifts by like a fairy tale. The wings know just what to do: up, down, up, down. The wind gently strokes the little wings: don't be afraid, I've got you."
+      "text": "The little wings open wide, wide — and suddenly they hold! {name} glides through the air, light as that very feather. \"I'm flying! I'm really flying!\" {name} calls out brightly. The air smells of river and sunshine, and everything around drifts by like a fairy tale. The wings know just what to do: up, down, up, down. The wind gently strokes the little wings: don't be afraid, I've got you.",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "Below, the green meadow drifts past, sprinkled with white and yellow flowers. From up here the flowers look like scattered seeds of sunlight. {name} sees home from up above — all of it, small and dear. \"So this is how Mama sees the world,\" {name} thinks, and smiles. The warm air rocks gently, like the mother's wings. How wonderful it is to fly!"
+      "text": "Below, the green meadow drifts past, sprinkled with white and yellow flowers. From up here the flowers look like scattered seeds of sunlight. {name} sees home from up above — all of it, small and dear. \"So this is how Mama sees the world,\" {name} thinks, and smiles. The warm air rocks gently, like the mother's wings. How wonderful it is to fly!",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "{name} flies over the shining river — splish-splash goes the water. The little frog waves a paw from below. \"How beautifully you fly, little stork!\" she croaks across the whole bank. {name} joyfully waves a wing right back. The water shimmers like a thousand merry sparkles. It feels like a day for singing — and {name} clatters happily up at the sky."
+      "text": "{name} flies over the shining river — splish-splash goes the water. The little frog waves a paw from below. \"How beautifully you fly, little stork!\" she croaks across the whole bank. {name} joyfully waves a wing right back. The water shimmers like a thousand merry sparkles. It feels like a day for singing — and {name} clatters happily up at the sky.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "Here is the home yard, with its little thatched cottage. {name} circles above the low wooden fence like a small white airplane. The yard smells of warm bread and fresh-cut grass. The thatched roof glows softly golden in the sun, just like in a fairy tale. \"Hello, little house!\" {name} calls from above and makes one more joyful circle. Everything below is so familiar and warm."
+      "text": "Here is the home yard, with its little thatched cottage. {name} circles above the low wooden fence like a small white airplane. The yard smells of warm bread and fresh-cut grass. The thatched roof glows softly golden in the sun, just like in a fairy tale. \"Hello, little house!\" {name} calls from above and makes one more joyful circle. Everything below is so familiar and warm.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "And over there, snagged on a tall reed, the little white feather sways. {name} spots it and hovers still with joy. Found at last! The feather flutters in the breeze as if waving: here I am, here I am! That little heart skips with happiness. \"I'm coming!\" {name} calls, and swoops down toward the reed."
+      "text": "And over there, snagged on a tall reed, the little white feather sways. {name} spots it and hovers still with joy. Found at last! The feather flutters in the breeze as if waving: here I am, here I am! That little heart skips with happiness. \"I'm coming!\" {name} calls, and swoops down toward the reed.",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "{name} drifts softly down and scoops up the treasured feather with one little foot. It is here again — soft and warm. The feather tickles that little foot, as if saying thank you. {name} holds it close — and will not let it go again. The mother stork circles close and smiles from above. \"I knew your wings would not let you down,\" she clatters tenderly."
+      "text": "{name} drifts softly down and scoops up the treasured feather with one little foot. It is here again — soft and warm. The feather tickles that little foot, as if saying thank you. {name} holds it close — and will not let it go again. The mother stork circles close and smiles from above. \"I knew your wings would not let you down,\" she clatters tenderly.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "The sun sinks lower, and the sky turns golden-pink. {name} turns back toward the old willow, holding the feather close. The air grows quiet and gentle, like a whisper. A soft, pleasant tiredness settles on the little wings. \"Homeward,\" {name} smiles quietly. The little wings are not afraid at all now."
+      "text": "The sun sinks lower, and the sky turns golden-pink. {name} turns back toward the old willow, holding the feather close. The air grows quiet and gentle, like a whisper. A soft, pleasant tiredness settles on the little wings. \"Homeward,\" {name} smiles quietly. The little wings are not afraid at all now.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "Below, the meadow is all golden now, and the flowers nod toward sleep. \"Goodnight, little flowers,\" {name} whispers softly. The meadow sways its grasses in reply — gently, sleepily. {name} flies over them, light and happy inside. Even the wind breathes more quietly now, as if it is getting ready for sleep too. The warm air smells of honey and river."
+      "text": "Below, the meadow is all golden now, and the flowers nod toward sleep. \"Goodnight, little flowers,\" {name} whispers softly. The meadow sways its grasses in reply — gently, sleepily. {name} flies over them, light and happy inside. Even the wind breathes more quietly now, as if it is getting ready for sleep too. The warm air smells of honey and river.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "The willow is close now, and the home nest glows in the last rays of sun. The willow leaves whisper a welcome: you're back, you're back. {name} knows every twig, every warm little corner. The wings carry on all by themselves, toward coziness and home. That little heart beats quietly and happily. Homeward, homeward!"
+      "text": "The willow is close now, and the home nest glows in the last rays of sun. The willow leaves whisper a welcome: you're back, you're back. {name} knows every twig, every warm little corner. The wings carry on all by themselves, toward coziness and home. That little heart beats quietly and happily. Homeward, homeward!",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "{name} lands softly on the edge of the nest and carefully sets the feather back in its corner. The nest is full of familiar warmth and the soft smell of home. \"Rest now, little feather, you're home,\" {name} whispers. The little legs tremble with joy now, not with fear. The twigs creak softly underfoot: goodnight, goodnight. Here it is — home."
+      "text": "{name} lands softly on the edge of the nest and carefully sets the feather back in its corner. The nest is full of familiar warmth and the soft smell of home. \"Rest now, little feather, you're home,\" {name} whispers. The little legs tremble with joy now, not with fear. The twigs creak softly underfoot: goodnight, goodnight. Here it is — home.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "{name} nestles into the mother stork's warm wing. Under the wing it is warm and snug, like the softest cradle. \"You see,\" she says softly, \"the sky isn't scary when you know where to fly home.\" Her heart beats close by — steady, calm, and gentle. {name} snuggles closer and sighs happily. Little eyes slowly grow sleepy all on their own."
+      "text": "{name} nestles into the mother stork's warm wing. Under the wing it is warm and snug, like the softest cradle. \"You see,\" she says softly, \"the sky isn't scary when you know where to fly home.\" Her heart beats close by — steady, calm, and gentle. {name} snuggles closer and sighs happily. Little eyes slowly grow sleepy all on their own.",
+      "audio": "en_p21.mp3"
     },
     {
       "image": "p22.jpg",
-      "text": "The sun slips behind the meadow, and the first little stars come out. The stars twinkle softly, like tiny little lanterns. {name} looks at that dear little feather and at the wide, wide sky. The sky is big and gentle — just like the mother's wing. Now they both feel like home. {name} blinks those sleepy eyes slower and slower."
+      "text": "The sun slips behind the meadow, and the first little stars come out. The stars twinkle softly, like tiny little lanterns. {name} looks at that dear little feather and at the wide, wide sky. The sky is big and gentle — just like the mother's wing. Now they both feel like home. {name} blinks those sleepy eyes slower and slower.",
+      "audio": "en_p22.mp3"
     },
     {
       "image": "p23.jpg",
-      "text": "In the warm nest, {name} curls up into a cozy little bundle. The mother stork stands quietly close by, like a small white star. The willow rocks the nest ever so gently, like a kind grandmother rocking a cradle. The river below sings its lullaby: splish-splash-splash. All the sounds grow soft and far, far away. Sleep, little stork, sleep."
+      "text": "In the warm nest, {name} curls up into a cozy little bundle. The mother stork stands quietly close by, like a small white star. The willow rocks the nest ever so gently, like a kind grandmother rocking a cradle. The river below sings its lullaby: splish-splash-splash. All the sounds grow soft and far, far away. Sleep, little stork, sleep.",
+      "audio": "en_p23.mp3"
     },
     {
       "image": "p24.jpg",
-      "text": "{name} yawns sweetly and closes those curious eyes. In dreams, little white feathers and a gentle warm wind are already drifting by. Mama's wing is near, the feather is in its corner, and the whole willow whispers softly: sleep. Tomorrow the wide sky will call again — but first, a warm night at home. The river below hums softer and softer. Goodnight, brave little stork!"
+      "text": "{name} yawns sweetly and closes those curious eyes. In dreams, little white feathers and a gentle warm wind are already drifting by. Mama's wing is near, the feather is in its corner, and the whole willow whispers softly: sleep. Tomorrow the wide sky will call again — but first, a warm night at home. The river below hums softer and softer. Goodnight, brave little stork!",
+      "audio": "en_p24.mp3"
     }
   ]
 }
