@@ -7,99 +7,123 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a fluffy white mountain goat kid with two tiny horn-bumps. The soft coat smells of warmth and fresh meadow grass. Out on the green mountain meadow, a little bell goes ding-a-ling! The bell swings with every little step, and {name} loves its cheery song."
+      "text": "This is {name}. {name} is a fluffy white mountain goat kid with two tiny horn-bumps. The soft coat smells of warmth and fresh meadow grass. Out on the green mountain meadow, a little bell goes ding-a-ling! The bell swings with every little step, and {name} loves its cheery song.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "Every morning {name} looks up at the highest mountain. Its peak hides way up in the sky, behind the very clouds. Maybe up there you could touch the sky with your horn-bumps? Maybe from up there you could see the whole wide world? What could be there, beyond the top? {name} dreams about it every day — and a little heart beats a tiny bit faster."
+      "text": "Every morning {name} looks up at the highest mountain. Its peak hides way up in the sky, behind the very clouds. Maybe up there you could touch the sky with your horn-bumps? Maybe from up there you could see the whole wide world? What could be there, beyond the top? {name} dreams about it every day — and a little heart beats a tiny bit faster.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "One morning, while the stars are still fading, {name} tiptoes onto the path. The meadow is fast asleep, and the grass is silvery with dew. The dew gently cools the little hooves, and the air smells of dawn. All around it is quiet, so quiet — only a little heart goes pit-a-pat: adventure, adventure! Today is a day for a big adventure!"
+      "text": "One morning, while the stars are still fading, {name} tiptoes onto the path. The meadow is fast asleep, and the grass is silvery with dew. The dew gently cools the little hooves, and the air smells of dawn. All around it is quiet, so quiet — only a little heart goes pit-a-pat: adventure, adventure! Today is a day for a big adventure!",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "The path winds uphill between grey pebbles. {name} takes tiny steps: clip-clop, clip-clop. The pebbles feel smooth and cool, as if the dew has washed them clean. Climbing uphill is merry work! And the little bell sings along: ding-a-ling, we're off to see the mountain!"
+      "text": "The path winds uphill between grey pebbles. {name} takes tiny steps: clip-clop, clip-clop. The pebbles feel smooth and cool, as if the dew has washed them clean. Climbing uphill is merry work! And the little bell sings along: ding-a-ling, we're off to see the mountain!",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "A bright, chattering stream comes rushing down to say hello — cold and merry. The water sings its burbling little song without any words. {name} hops from stone to stone: splish-splash! Silvery drops tickle their little black hooves. {name} laughs: oh, how tickly, and what fun!"
+      "text": "A bright, chattering stream comes rushing down to say hello — cold and merry. The water sings its burbling little song without any words. {name} hops from stone to stone: splish-splash! Silvery drops tickle their little black hooves. {name} laughs: oh, how tickly, and what fun!",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "\"Where are you off to so early?\" burbles the stream. \"To the very top!\" answers {name}. The stream is amazed — it only ever runs down. \"Well, well! May your path be easy!\" murmurs the water in farewell. {name} gives a friendly nod and trots on."
+      "text": "\"Where are you off to so early?\" burbles the stream. \"To the very top!\" answers {name}. The stream is amazed — it only ever runs down. \"Well, well! May your path be easy!\" murmurs the water in farewell. {name} gives a friendly nod and trots on.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "Beyond the stream lies a meadow, sweet with wild thyme. The sweet smell tickles that little nose — oh, try not to sneeze! Sleepy bumblebees are still snoozing inside the flower-bells. {name} steps ever so softly, so nobody wakes up. Even the little bell goes quiet: it knows how to be polite too."
+      "text": "Beyond the stream lies a meadow, sweet with wild thyme. The sweet smell tickles that little nose — oh, try not to sneeze! Sleepy bumblebees are still snoozing inside the flower-bells. {name} steps ever so softly, so nobody wakes up. Even the little bell goes quiet: it knows how to be polite too.",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "By a burrow, a plump marmot gives a big yawn: \"My, oh my! The mountain is so big, and the path is long, long, long.\" {name} smiles back: \"That's all right. Step by step, I'll get there.\" The marmot is round and cosy, and his sleepy voice is warm and kind. He scratches his round tummy and offers a kindly tip: \"Just rest whenever you're tired — then all will be well.\" How nice it is to meet such a friendly fellow on the way! Now that is good advice for a journey!"
+      "text": "By a burrow, a plump marmot gives a big yawn: \"My, oh my! The mountain is so big, and the path is long, long, long.\" {name} smiles back: \"That's all right. Step by step, I'll get there.\" The marmot is round and cosy, and his sleepy voice is warm and kind. He scratches his round tummy and offers a kindly tip: \"Just rest whenever you're tired — then all will be well.\" How nice it is to meet such a friendly fellow on the way! Now that is good advice for a journey!",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "\"Wheet-wheet! Safe travels!\" whistles the marmot, and snuggles back down to sleep. \"Thank you! See you soon!\" calls {name} in reply. Meanwhile the path grows steeper, and the stones grow bigger. But the little hooves step surely, and the bell rings brightly: ding-a-ling, we're doing fine!"
+      "text": "\"Wheet-wheet! Safe travels!\" whistles the marmot, and snuggles back down to sleep. \"Thank you! See you soon!\" calls {name} in reply. Meanwhile the path grows steeper, and the stones grow bigger. But the little hooves step surely, and the bell rings brightly: ding-a-ling, we're doing fine!",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "{name} walks on, slow and steady, step by step. Clip-clop go the little hooves on the stones. Breathe in — a step, breathe out — another step: walking like this is not hard at all. {name} quietly hums a little song about the mountain. And with every step, the mountain comes a tiny bit closer."
+      "text": "{name} walks on, slow and steady, step by step. Clip-clop go the little hooves on the stones. Breathe in — a step, breathe out — another step: walking like this is not hard at all. {name} quietly hums a little song about the mountain. And with every step, the mountain comes a tiny bit closer.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "Up here the wind is fresh, and it smells of snow from the peak. It gently ruffles the white coat and whispers something windy of its own. Far below, the meadow looks as small as a green handkerchief. {name} peeks down and whispers: my, how high it is! A little tickle of joy dances in the tummy."
+      "text": "Up here the wind is fresh, and it smells of snow from the peak. It gently ruffles the white coat and whispers something windy of its own. Far below, the meadow looks as small as a green handkerchief. {name} peeks down and whispers: my, how high it is! A little tickle of joy dances in the tummy.",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "On a rock sits a little white cloud, fluffy as a dandelion puff. It is caught on a sharp stone, sighing softly. {name} comes closer — slowly and gently, so as not to frighten it. \"Why are you sighing, little cloud?\" asks {name} softly. \"I've lost my way to the sky,\" the cloud whispers."
+      "text": "On a rock sits a little white cloud, fluffy as a dandelion puff. It is caught on a sharp stone, sighing softly. {name} comes closer — slowly and gently, so as not to frighten it. \"Why are you sighing, little cloud?\" asks {name} softly. \"I've lost my way to the sky,\" the cloud whispers.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "\"The sky is up there, beyond the top!\" says {name}. \"Come along — we'll go step by step.\" The cloud gives a happy bounce and holds on softly to the tiny horn-bumps. It is feather-light — just a soft warmth near the little ears. \"Thank you!\" rustles the cloud, and at once the journey feels merrier for two."
+      "text": "\"The sky is up there, beyond the top!\" says {name}. \"Come along — we'll go step by step.\" The cloud gives a happy bounce and holds on softly to the tiny horn-bumps. It is feather-light — just a soft warmth near the little ears. \"Thank you!\" rustles the cloud, and at once the journey feels merrier for two.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "Now they travel together: {name} walks in front, and the cloud floats gently above the horn-bumps. The little bell now rings for two: ding-a-ling, ding-a-ling! The wind gives them a soft push from behind — perhaps it wants to reach the top too. With friends like these, the path seems to roll out all by itself under the little hooves."
+      "text": "Now they travel together: {name} walks in front, and the cloud floats gently above the horn-bumps. The little bell now rings for two: ding-a-ling, ding-a-ling! The wind gives them a soft push from behind — perhaps it wants to reach the top too. With friends like these, the path seems to roll out all by itself under the little hooves.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "Little legs grow tired after a while. {name} stops and looks back: my, so many steps already! Each step is tiny — but together they make one long, long road. \"My, look how far we've come!\" whispers {name}. The cloud sways on the horn-bumps, as if to say: yes-yes, well done, us!"
+      "text": "Little legs grow tired after a while. {name} stops and looks back: my, so many steps already! Each step is tiny — but together they make one long, long road. \"My, look how far we've come!\" whispers {name}. The cloud sways on the horn-bumps, as if to say: yes-yes, well done, us!",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "A flat, sun-warmed rock is a lovely place to rest. {name} closes both eyes for a moment and listens to the mountain breathing softly. The cloud snuggles close, soft as a downy shawl. One sip of fresh mountain wind — and the strength comes back. \"On we go,\" smiles {name}."
+      "text": "A flat, sun-warmed rock is a lovely place to rest. {name} closes both eyes for a moment and listens to the mountain breathing softly. The cloud snuggles close, soft as a downy shawl. One sip of fresh mountain wind — and the strength comes back. \"On we go,\" smiles {name}.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "{name} takes a deep, deep breath and calls out: \"Hey!\" \"Hey-hey-hey!\" the mountain answers merrily. What do you know — the mountain loves to play echo! {name} laughs out loud, and the echo laughs right back. Even the little cloud giggles softly above the horn-bumps."
+      "text": "{name} takes a deep, deep breath and calls out: \"Hey!\" \"Hey-hey-hey!\" the mountain answers merrily. What do you know — the mountain loves to play echo! {name} laughs out loud, and the echo laughs right back. Even the little cloud giggles softly above the horn-bumps.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "Ahead lies the last climb, the steepest of all. The little bell cheers: ding — one more step! Ding — one more! \"Just a little more, only a tiny bit!\" whispers the cloud by a little ear. The hooves hold on to the stones tight, tight. {name} breathes deeply and keeps on going."
+      "text": "Ahead lies the last climb, the steepest of all. The little bell cheers: ding — one more step! Ding — one more! \"Just a little more, only a tiny bit!\" whispers the cloud by a little ear. The hooves hold on to the stones tight, tight. {name} breathes deeply and keeps on going.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "The sky slowly turns pink, as if someone is painting it with a soft brush. The top is almost, almost there. A little heart beats loud and happy: soon, soon! Ten more steps... five... four... wait — three... two... one! The little bell rings out for joy: ding-a-ling-a-ling!"
+      "text": "The sky slowly turns pink, as if someone is painting it with a soft brush. The top is almost, almost there. A little heart beats loud and happy: soon, soon! Ten more steps... five... four... wait — three... two... one! The little bell rings out for joy: ding-a-ling-a-ling!",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "The top! {name} stands on the very tip of the mountain, and the wind gently ruffles that fluffy white coat. All around it is quiet, so quiet, as if the whole world is holding its breath. And at that very moment, the sun rises over the edge of the world. The warm light kisses the little nose, the ears, and the tiny horn-bumps. {name} squints happily and smiles."
+      "text": "The top! {name} stands on the very tip of the mountain, and the wind gently ruffles that fluffy white coat. All around it is quiet, so quiet, as if the whole world is holding its breath. And at that very moment, the sun rises over the edge of the world. The warm light kisses the little nose, the ears, and the tiny horn-bumps. {name} squints happily and smiles.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "Golden light spills out over valleys, rivers and forests. The mountains all around stand like kind sleeping giants. The little cloud softly strokes the tiny horn-bumps one last time — that is how clouds hug. \"Thank you! There's my road!\" laughs the cloud, and floats up, up into the sky. \"Happy travels, little cloud!\" calls {name} after it."
+      "text": "Golden light spills out over valleys, rivers and forests. The mountains all around stand like kind sleeping giants. The little cloud softly strokes the tiny horn-bumps one last time — that is how clouds hug. \"Thank you! There's my road!\" laughs the cloud, and floats up, up into the sky. \"Happy travels, little cloud!\" calls {name} after it.",
+      "audio": "en_p21.mp3"
     },
     {
       "image": "p22.jpg",
-      "text": "And far below, among the golden valleys, {name} spots the dear home meadow. From up here, it is the loveliest place in the whole wide world. \"I can see you, little meadow!\" calls {name} happily. A little heart grows warm, so warm, as if a tiny sun has settled inside. So that is what hides beyond the mountain: the great big world, with home right in the middle of it."
+      "text": "And far below, among the golden valleys, {name} spots the dear home meadow. From up here, it is the loveliest place in the whole wide world. \"I can see you, little meadow!\" calls {name} happily. A little heart grows warm, so warm, as if a tiny sun has settled inside. So that is what hides beyond the mountain: the great big world, with home right in the middle of it.",
+      "audio": "en_p22.mp3"
     },
     {
       "image": "p23.jpg",
-      "text": "Downhill, the path seems to run all by itself, light and merry. The little hooves go quick and light — going down is easy as easy can be! The marmot is wide awake now and waves a paw, and the stream laughs: splish-splash, welcome back! {name} rings the little bell in reply: ding-a-ling! \"You can see the whole world from the top!\" calls {name} happily. How lovely it is to come back with a story to tell your friends!"
+      "text": "Downhill, the path seems to run all by itself, light and merry. The little hooves go quick and light — going down is easy as easy can be! The marmot is wide awake now and waves a paw, and the stream laughs: splish-splash, welcome back! {name} rings the little bell in reply: ding-a-ling! \"You can see the whole world from the top!\" calls {name} happily. How lovely it is to come back with a story to tell your friends!",
+      "audio": "en_p23.mp3"
     },
     {
       "image": "p24.jpg",
-      "text": "In the evening, the meadow smells of warm grass and home. {name} looks up at the mountain — it doesn't feel far away anymore, it feels like a friend. The mountain stands in the evening hush, as if whispering: good night, and see you on new adventures. Because now {name} knows: the highest mountains are climbed with the smallest steps. The little bell rings one last time — softly, softly: ding... — and falls asleep till morning."
+      "text": "In the evening, the meadow smells of warm grass and home. {name} looks up at the mountain — it doesn't feel far away anymore, it feels like a friend. The mountain stands in the evening hush, as if whispering: good night, and see you on new adventures. Because now {name} knows: the highest mountains are climbed with the smallest steps. The little bell rings one last time — softly, softly: ding... — and falls asleep till morning.",
+      "audio": "en_p24.mp3"
     }
   ]
 }

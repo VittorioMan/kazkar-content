@@ -7,83 +7,103 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a little white lamb, soft and curly like a cloud. On the ribbon, a tiny bell rings: ding-ding. The bell sings high and merry, as if saying hello to the whole world. And most of all in the world, {name} loves warm hugs. Listen closely — this little story is all about them."
+      "text": "This is {name}. {name} is a little white lamb, soft and curly like a cloud. On the ribbon, a tiny bell rings: ding-ding. The bell sings high and merry, as if saying hello to the whole world. And most of all in the world, {name} loves warm hugs. Listen closely — this little story is all about them.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "The sun tucks itself behind the hill, and the world grows quiet and still. The day yawns and gently whispers to everyone: \"Goodnight.\" A warm yellow light glows in the window. It calls everyone home, like a soft and gentle hand. The evening air turns cool and soft, like a gentle whisper. The whole world settles down for a calm and cozy rest. It is time for the most important evening journey."
+      "text": "The sun tucks itself behind the hill, and the world grows quiet and still. The day yawns and gently whispers to everyone: \"Goodnight.\" A warm yellow light glows in the window. It calls everyone home, like a soft and gentle hand. The evening air turns cool and soft, like a gentle whisper. The whole world settles down for a calm and cozy rest. It is time for the most important evening journey.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "{name} sets off to give a goodnight hug to all the family. Soft little feet step quietly, quietly, as if on fluffy down. The little heart glows with one happy thought: everyone, everyone must get a hug. First of all, Grandpa is waiting. The little bell jingles softly in the warm air: ding-ding."
+      "text": "{name} sets off to give a goodnight hug to all the family. Soft little feet step quietly, quietly, as if on fluffy down. The little heart glows with one happy thought: everyone, everyone must get a hug. First of all, Grandpa is waiting. The little bell jingles softly in the warm air: ding-ding.",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "Grandpa is dozing in his soft chair by the fire. The fire crackles gently and purrs, as if it is falling asleep too. {name} snuggles ever so gently into his warm woolly sweater. The sweater tickles the cheek — soft, warm, and kind. This hug smells of woodsmoke and good old stories."
+      "text": "Grandpa is dozing in his soft chair by the fire. The fire crackles gently and purrs, as if it is falling asleep too. {name} snuggles ever so gently into his warm woolly sweater. The sweater tickles the cheek — soft, warm, and kind. This hug smells of woodsmoke and good old stories.",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "\"Goodnight, Grandpa,\" {name} whispers ever so softly. Grandpa smiles in his sleep and pats the curly little head. \"Sweet dreams, my little curly one,\" Grandpa murmurs, soft and low. His big hand is warm, warm, like summer sunshine. One hug is given — and so many warm ones still to come."
+      "text": "\"Goodnight, Grandpa,\" {name} whispers ever so softly. Grandpa smiles in his sleep and pats the curly little head. \"Sweet dreams, my little curly one,\" Grandpa murmurs, soft and low. His big hand is warm, warm, like summer sunshine. One hug is given — and so many warm ones still to come.",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "Next, {name} pitter-patters to the cozy kitchen. There, by the warm stove, Grandma is busy. Grandma hums a quiet little tune to herself. A sweet, sweet smell of pies floats through the air. A little nose reaches toward that smell right away: yum-yum."
+      "text": "Next, {name} pitter-patters to the cozy kitchen. There, by the warm stove, Grandma is busy. Grandma hums a quiet little tune to herself. A sweet, sweet smell of pies floats through the air. A little nose reaches toward that smell right away: yum-yum.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "{name} hugs Grandma around her soft apron. Grandma bends down and gently hugs back. Grandma's hands are warm, warm, and ever so gentle. \"There's my little sunshine,\" Grandma smiles softly. This hug smells of warm pies and a cozy little stove."
+      "text": "{name} hugs Grandma around her soft apron. Grandma bends down and gently hugs back. Grandma's hands are warm, warm, and ever so gentle. \"There's my little sunshine,\" Grandma smiles softly. This hug smells of warm pies and a cozy little stove.",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "\"Goodnight, Grandma,\" {name} murmurs into the warm apron. Grandma kisses a curly little ear: mwah. \"Sweet dreams to you, my treasure,\" she whispers. That kiss feels sweet inside, like a tiny drop of honey. The bell answers happily: ding-ding."
+      "text": "\"Goodnight, Grandma,\" {name} murmurs into the warm apron. Grandma kisses a curly little ear: mwah. \"Sweet dreams to you, my treasure,\" she whispers. That kiss feels sweet inside, like a tiny drop of honey. The bell answers happily: ding-ding.",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "Now {name} heads to the bright little corner where Mama is waiting. Mama smiles softly and warmly — the way only a mama can. Mama holds a cup of warm milk. Soft white steam swirls in the cup. The steam smells of a warm evening and of coziness."
+      "text": "Now {name} heads to the bright little corner where Mama is waiting. Mama smiles softly and warmly — the way only a mama can. Mama holds a cup of warm milk. Soft white steam swirls in the cup. The steam smells of a warm evening and of coziness.",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "{name} settles onto Mama's lap and takes a tiny sip. The milk is warm, warm all the way down to the heart. Sip after little sip, the warmth spreads all the way to the tip of the tail. Mama's lap rocks ever so slightly, like a quiet little boat. Those little eyes grow slowly heavy."
+      "text": "{name} settles onto Mama's lap and takes a tiny sip. The milk is warm, warm all the way down to the heart. Sip after little sip, the warmth spreads all the way to the tip of the tail. Mama's lap rocks ever so slightly, like a quiet little boat. Those little eyes grow slowly heavy.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "{name} nestles close to Mama and breathes in that dear, familiar scent. This hug smells of lavender and a cozy home. Mama's heart beats close by, soft and steady: tum-tum. Mama hums a soft lullaby: la-la-la. That little song makes everything around feel soft and sleepy."
+      "text": "{name} nestles close to Mama and breathes in that dear, familiar scent. This hug smells of lavender and a cozy home. Mama's heart beats close by, soft and steady: tum-tum. Mama hums a soft lullaby: la-la-la. That little song makes everything around feel soft and sleepy.",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "\"Goodnight, Mama,\" {name} yawns sweetly. Mama holds tight and whispers, \"I love you.\" \"I love you too,\" {name} whispers back. Those words feel warm, like a fluffy little blanket for two. And one hug is still left — the smallest and warmest of all."
+      "text": "\"Goodnight, Mama,\" {name} yawns sweetly. Mama holds tight and whispers, \"I love you.\" \"I love you too,\" {name} whispers back. Those words feel warm, like a fluffy little blanket for two. And one hug is still left — the smallest and warmest of all.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "On soft little feet, {name} pitter-patters to a small room. Here you have to step ever so quietly — on tiptoe. There, under a blanket, the baby brother is already snoozing — a tiny little lamb. The baby breathes evenly and sweetly: snuffle-snuffle. A night-light glows warm, like a little moon."
+      "text": "On soft little feet, {name} pitter-patters to a small room. Here you have to step ever so quietly — on tiptoe. There, under a blanket, the baby brother is already snoozing — a tiny little lamb. The baby breathes evenly and sweetly: snuffle-snuffle. A night-light glows warm, like a little moon.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "{name} leans down and hugs the baby brother ever so, ever so gently. The baby is warm, like a tiny bundle of sunshine. This hug smells of a warm blanket and sweet little dreams. {name} even breathes more quietly than ever. The bell stays quiet and still, so as not to wake the little one."
+      "text": "{name} leans down and hugs the baby brother ever so, ever so gently. The baby is warm, like a tiny bundle of sunshine. This hug smells of a warm blanket and sweet little dreams. {name} even breathes more quietly than ever. The bell stays quiet and still, so as not to wake the little one.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "\"Goodnight, little brother,\" {name} whispers, barely a breath. The baby smiles in his sleep and sighs sweetly. Perhaps the baby is already dreaming of something warm and gentle. That sleepy smile makes the little heart glow even warmer. Now every hug is given — every single one."
+      "text": "\"Goodnight, little brother,\" {name} whispers, barely a breath. The baby smiles in his sleep and sighs sweetly. Perhaps the baby is already dreaming of something warm and gentle. That sleepy smile makes the little heart glow even warmer. Now every hug is given — every single one.",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "Now {name} goes to that soft little bed too. Little feet step slowly, slowly, in a sleepy evening way. The whole house is quiet and warm, full of the hugs that were given. It seems even the walls are breathing gently and sleepily. Outside the window, the first little stars light up. The stars twinkle softly, as if whispering: sleep, sleep."
+      "text": "Now {name} goes to that soft little bed too. Little feet step slowly, slowly, in a sleepy evening way. The whole house is quiet and warm, full of the hugs that were given. It seems even the walls are breathing gently and sleepily. Outside the window, the first little stars light up. The stars twinkle softly, as if whispering: sleep, sleep.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "{name} settles into a blanket as soft as a big white cloud. The blanket gives a hug of its own — warm, warm, from every side. The bell lies down close by and grows still: ding... and hush. Little thoughts turn slow and fluffy, like soft curls. Those little eyes close all on their own."
+      "text": "{name} settles into a blanket as soft as a big white cloud. The blanket gives a hug of its own — warm, warm, from every side. The bell lies down close by and grows still: ding... and hush. Little thoughts turn slow and fluffy, like soft curls. Those little eyes close all on their own.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "In the little bed it is warm from all the hugs at once. It smells a little of woodsmoke, a little of pies, a little of lavender. {name} remembers every hug — Grandpa's, Grandma's, Mama's, and the baby brother's. A sleepy smile blooms at those warm memories. It smells of home — the very best smell in the world."
+      "text": "In the little bed it is warm from all the hugs at once. It smells a little of woodsmoke, a little of pies, a little of lavender. {name} remembers every hug — Grandpa's, Grandma's, Mama's, and the baby brother's. A sleepy smile blooms at those warm memories. It smells of home — the very best smell in the world.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "Outside the window, the moon rocks softly in a cradle of stars. The night is gentle and quiet, like Mama's lullaby. The whole family sleeps, wrapped in each other's warmth. Sleep comes in without a sound, on soft, soft little steps. {name} sighs sweetly and smiles at the sweet dreams to come."
+      "text": "Outside the window, the moon rocks softly in a cradle of stars. The night is gentle and quiet, like Mama's lullaby. The whole family sleeps, wrapped in each other's warmth. Sleep comes in without a sound, on soft, soft little steps. {name} sighs sweetly and smiles at the sweet dreams to come.",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "{name} falls asleep in the arms of the whole warm, gentle, loving home. The bell is silent, and even the silence here feels warm and kind. The warmest end to any day is a hug and the words \"goodnight.\" May the dreams be full of soft clouds and the gentle voices of family. Sleep sweetly, dear little curly heart."
+      "text": "{name} falls asleep in the arms of the whole warm, gentle, loving home. The bell is silent, and even the silence here feels warm and kind. The warmest end to any day is a hug and the words \"goodnight.\" May the dreams be full of soft clouds and the gentle voices of family. Sleep sweetly, dear little curly heart.",
+      "audio": "en_p20.mp3"
     }
   ]
 }

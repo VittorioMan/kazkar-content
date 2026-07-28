@@ -7,87 +7,108 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a little brown otter with a soft cream belly and shiny whiskers. The sun is sinking behind the river, and the cottage grows warm and quiet. Somewhere very near, water murmurs gently, and everything feels calm inside. {name} sniffs the air: the evening smells of river and coziness. The little whiskers quiver softly — something very nice is coming."
+      "text": "This is {name}. {name} is a little brown otter with a soft cream belly and shiny whiskers. The sun is sinking behind the river, and the cottage grows warm and quiet. Somewhere very near, water murmurs gently, and everything feels calm inside. {name} sniffs the air: the evening smells of river and coziness. The little whiskers quiver softly — something very nice is coming.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "{name} hears a familiar sound: splish-splash — warm water is filling the little tub. {name} pitter-pats in place with excitement — quick, quick! Soft steam curls up, and it smells of soap and river. The steam gently tickles that little nose, as if to say: come in, the water is waiting. The favorite evening game is about to begin."
+      "text": "{name} hears a familiar sound: splish-splash — warm water is filling the little tub. {name} pitter-pats in place with excitement — quick, quick! Soft steam curls up, and it smells of soap and river. The steam gently tickles that little nose, as if to say: come in, the water is waiting. The favorite evening game is about to begin.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "{name} carefully dips one little paw into the water. Tiny quiet circles ripple across the water — hello, hello! Oh, how warm and cozy it feels! The warmth climbs from little heels all the way up to little ears. The water hugs that soft belly like a gentle blanket."
+      "text": "{name} carefully dips one little paw into the water. Tiny quiet circles ripple across the water — hello, hello! Oh, how warm and cozy it feels! The warmth climbs from little heels all the way up to little ears. The water hugs that soft belly like a gentle blanket.",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "Plop! {name} settles into the water right up to the chin. Mother otter gently pours warm water over that little back. \"There now, nice and slow,\" purrs mother. The warm water trickles down like a tiny waterfall. Splish-splash — and the whole day washes away."
+      "text": "Plop! {name} settles into the water right up to the chin. Mother otter gently pours warm water over that little back. \"There now, nice and slow,\" purrs mother. The warm water trickles down like a tiny waterfall. Splish-splash — and the whole day washes away.",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "{name} scoops up two paws full of water and blows. Fff-fff — little cloud-bubbles float up. {name} blows again, ever so softly — and more bubbles rise. They drift through the air like tiny silver balls. In each one glimmers a droplet of evening light. What a wonder — flying little clouds born from plain water!"
+      "text": "{name} scoops up two paws full of water and blows. Fff-fff — little cloud-bubbles float up. {name} blows again, ever so softly — and more bubbles rise. They drift through the air like tiny silver balls. In each one glimmers a droplet of evening light. What a wonder — flying little clouds born from plain water!",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "A bubble lands right on that little nose. Tickly, oh so tickly! One tickles a whisker — and pop! {name} giggles softly, and little rings ripple across the water. The giggle comes out warm and bubbly, just like the water itself. The rings run to the edge of the tub and come back again, as if they are playing too."
+      "text": "A bubble lands right on that little nose. Tickly, oh so tickly! One tickles a whisker — and pop! {name} giggles softly, and little rings ripple across the water. The giggle comes out warm and bubbly, just like the water itself. The rings run to the edge of the tub and come back again, as if they are playing too.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "{name} piles a fluffy foam cap on top of that little head. The foam is soft as a little cloud that has come down to play. In the water there is a tiny reflection — silly and sweet. \"Who is that in the white hat?\" giggles {name}, making a funny face. The reflection makes exactly the same one! What a giggle — a snowy hat of foam!"
+      "text": "{name} piles a fluffy foam cap on top of that little head. The foam is soft as a little cloud that has come down to play. In the water there is a tiny reflection — silly and sweet. \"Who is that in the white hat?\" giggles {name}, making a funny face. The reflection makes exactly the same one! What a giggle — a snowy hat of foam!",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "And here comes the boat — a little walnut shell with a leaf for a sail. The boat bobs on the water as if bowing: good evening! \"Where shall we sail tonight?\" whispers {name}. The leaf-sail trembles softly, as if to answer: to warm lands! {name} nudges it gently with one paw. Sail away, little boat, sail away!"
+      "text": "And here comes the boat — a little walnut shell with a leaf for a sail. The boat bobs on the water as if bowing: good evening! \"Where shall we sail tonight?\" whispers {name}. The leaf-sail trembles softly, as if to answer: to warm lands! {name} nudges it gently with one paw. Sail away, little boat, sail away!",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "{name} blows on the little sail — and the boat glides between the bubbles. The bubbles drift apart before it like tiny white islands. It rocks on the tiny waves: this way, that way, this way, that way. {name} blows a little harder, then ever so gently — and the boat obediently turns. A whole sea fits in one little tub. What a voyage this is!"
+      "text": "{name} blows on the little sail — and the boat glides between the bubbles. The bubbles drift apart before it like tiny white islands. It rocks on the tiny waves: this way, that way, this way, that way. {name} blows a little harder, then ever so gently — and the boat obediently turns. A whole sea fits in one little tub. What a voyage this is!",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "Tail — splash! {name} slaps the water with that little tail, and up leaps a fountain of spray. Droplets fly everywhere and patter brightly back into the water: drip-drip-drop! \"Hold on, little boat!\" calls {name} merrily. The boat bounces on the waves like a real sea. Little waves lap against the sides of the tub like a gentle surf."
+      "text": "Tail — splash! {name} slaps the water with that little tail, and up leaps a fountain of spray. Droplets fly everywhere and patter brightly back into the water: drip-drip-drop! \"Hold on, little boat!\" calls {name} merrily. The boat bounces on the waves like a real sea. Little waves lap against the sides of the tub like a gentle surf.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "{name} dips under — glug-glug — and pops back up out of the water. Under the water everything is so quiet, warm, and just a little tickly. {name} shakes that little head — and droplets scatter like a tiny rain. The whiskers glisten with droplets like tiny stars. The little boat waits patiently nearby. It nods its sail in a friendly way: welcome back!"
+      "text": "{name} dips under — glug-glug — and pops back up out of the water. Under the water everything is so quiet, warm, and just a little tickly. {name} shakes that little head — and droplets scatter like a tiny rain. The whiskers glisten with droplets like tiny stars. The little boat waits patiently nearby. It nods its sail in a friendly way: welcome back!",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "{name} sways the water with both little paws — splish, splish, splish. The water rocks this way and that, like a warm little cradle. One by one the bubbles pop softly. Even the little waves move ever so slowly now. The game grows slower now, gentler, sleepier. Splish, splish — the water whispers, softer and softer."
+      "text": "{name} sways the water with both little paws — splish, splish, splish. The water rocks this way and that, like a warm little cradle. One by one the bubbles pop softly. Even the little waves move ever so slowly now. The game grows slower now, gentler, sleepier. Splish, splish — the water whispers, softer and softer.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "Little by little the water grows cooler. {name} yawns a big sweet yawn — aah. The yawn comes out long, long, like the evening river. Nearly all the cloud-bubbles have tucked themselves away. Only here and there a last one softly pops — pop, and then hush. The little bath seems to be getting ready for sleep too."
+      "text": "Little by little the water grows cooler. {name} yawns a big sweet yawn — aah. The yawn comes out long, long, like the evening river. Nearly all the cloud-bubbles have tucked themselves away. Only here and there a last one softly pops — pop, and then hush. The little bath seems to be getting ready for sleep too.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "{name} has very sleepy eyes now. Mother unfolds the fluffy yellow towel with its little hood. \"Come to me, little one,\" mother calls gently. Her voice is as warm as the bath itself. It is time to step out of the warm bath. {name} waves a little paw to the water: see you tomorrow, see you tomorrow!"
+      "text": "{name} has very sleepy eyes now. Mother unfolds the fluffy yellow towel with its little hood. \"Come to me, little one,\" mother calls gently. Her voice is as warm as the bath itself. It is time to step out of the warm bath. {name} waves a little paw to the water: see you tomorrow, see you tomorrow!",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "{name} snuggles into the warm fluffy towel right up to the ears. The towel hugs like one big gentle cloud. The little hood with its tiny ears settles on that head. Now only a little nose and two shiny eyes peek out of the towel. Oh, how warm, how soft, how cozy! It feels just right to breathe softly and hurry nowhere at all."
+      "text": "{name} snuggles into the warm fluffy towel right up to the ears. The towel hugs like one big gentle cloud. The little hood with its tiny ears settles on that head. Now only a little nose and two shiny eyes peek out of the towel. Oh, how warm, how soft, how cozy! It feels just right to breathe softly and hurry nowhere at all.",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "In the towel {name} smells of soap and river. Mother gently dries the wet whiskers. \"What a clean little otter,\" mother smiles. {name} squints happily and purrs a tiny purr. Warmth spreads from that little nose all the way to the tip of the tail. The whiskers turn dry and fluffy once more."
+      "text": "In the towel {name} smells of soap and river. Mother gently dries the wet whiskers. \"What a clean little otter,\" mother smiles. {name} squints happily and purrs a tiny purr. Warmth spreads from that little nose all the way to the tip of the tail. The whiskers turn dry and fluffy once more.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "{name} nestles into mother's arms like a warm little nest. It is warm there, and very, very calm. Mother's heart beats close by, soft and steady: tum-tum, tum-tum. {name} listens and breathes slowly, slowly. Outside the window the river whispers its soft lullaby. Splish-splash — sleep now, sleep now."
+      "text": "{name} nestles into mother's arms like a warm little nest. It is warm there, and very, very calm. Mother's heart beats close by, soft and steady: tum-tum, tum-tum. {name} listens and breathes slowly, slowly. Outside the window the river whispers its soft lullaby. Splish-splash — sleep now, sleep now.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "Mother offers warm milk in a little wooden cup. \"Drink, little one, drink,\" mother murmurs softly. The cup warms those little paws so nicely. {name} drinks slowly, in tiny sips. The milk is warm, warm — just right before sleep. With every sip those eyes drift more and more closed."
+      "text": "Mother offers warm milk in a little wooden cup. \"Drink, little one, drink,\" mother murmurs softly. The cup warms those little paws so nicely. {name} drinks slowly, in tiny sips. The milk is warm, warm — just right before sleep. With every sip those eyes drift more and more closed.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "The warm milk cozies that little belly from inside. Inside, everything feels quiet and snug, like a little nest. {name} yawns — a deep, deep sleepy yawn. Thoughts float slowly, slowly, like a little boat on calm water. Those eyelids grow heavy, like two fluffy little clouds. Just one more minute — and sleep will come."
+      "text": "The warm milk cozies that little belly from inside. Inside, everything feels quiet and snug, like a little nest. {name} yawns — a deep, deep sleepy yawn. Thoughts float slowly, slowly, like a little boat on calm water. Those eyelids grow heavy, like two fluffy little clouds. Just one more minute — and sleep will come.",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "{name} drifts off to sleep, smelling of soap and river. Mother rocks gently and hums a soft lullaby. The song flows softly, like warm water. Mother's arms sway slowly: this way, that way, this way, that way. Each little breath grows even and quiet, quiet. Splish-splash — whispers the river outside the window."
+      "text": "{name} drifts off to sleep, smelling of soap and river. Mother rocks gently and hums a soft lullaby. The song flows softly, like warm water. Mother's arms sway slowly: this way, that way, this way, that way. Each little breath grows even and quiet, quiet. Splish-splash — whispers the river outside the window.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "{name} sleeps sweetly, sweetly, dreaming of warm water and a little boat. In the dream the boat sails a quiet, quiet warm sea. Sleep settles in gently, deep and untroubled. Outside the window the first stars have come out. The cottage slowly grows still, and the river murmurs softer and softer. Goodnight, little otter — splish-splash, sweet dreams."
+      "text": "{name} sleeps sweetly, sweetly, dreaming of warm water and a little boat. In the dream the boat sails a quiet, quiet warm sea. Sleep settles in gently, deep and untroubled. Outside the window the first stars have come out. The cottage slowly grows still, and the river murmurs softer and softer. Goodnight, little otter — splish-splash, sweet dreams.",
+      "audio": "en_p21.mp3"
     }
   ]
 }

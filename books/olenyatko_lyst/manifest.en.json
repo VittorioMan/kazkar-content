@@ -7,99 +7,123 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a little spotted fawn on thin wobbly legs, with big gentle eyes. The autumn forest glows with gold, and the day leans softly toward evening. The air smells of autumn and gentle coolness. Somewhere high above, the treetops murmur, and {name} listens to their quiet song."
+      "text": "This is {name}. {name} is a little spotted fawn on thin wobbly legs, with big gentle eyes. The autumn forest glows with gold, and the day leans softly toward evening. The air smells of autumn and gentle coolness. Somewhere high above, the treetops murmur, and {name} listens to their quiet song.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "Every morning {name} runs to the meadow to meet a dearest friend — a little swallow. The soft grass tickles those thin little legs. Together they chase leaves and count the clouds. \"Catch me!\" the swallow laughs merrily, and {name} hops happily along. With the swallow, every day feels warm as sunshine."
+      "text": "Every morning {name} runs to the meadow to meet a dearest friend — a little swallow. The soft grass tickles those thin little legs. Together they chase leaves and count the clouds. \"Catch me!\" the swallow laughs merrily, and {name} hops happily along. With the swallow, every day feels warm as sunshine.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "But today the swallow sits very, very quietly on a branch. \"Autumn has come,\" she says. \"It is time for me to fly to warmer lands.\" Her voice is soft, soft as the rustle of a leaf. {name} listens, and something tightens inside that little chest. \"But what about our games?\" {name} wants to ask, yet the words hide somewhere deep inside."
+      "text": "But today the swallow sits very, very quietly on a branch. \"Autumn has come,\" she says. \"It is time for me to fly to warmer lands.\" Her voice is soft, soft as the rustle of a leaf. {name} listens, and something tightens inside that little chest. \"But what about our games?\" {name} wants to ask, yet the words hide somewhere deep inside.",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "The swallow spreads her little wings and lifts into the sky. \"I will come back in spring!\" she calls from above. \"Safe travels, dear friend!\" {name} calls back. {name} watches the tiny dot melt away into the distance. The wind gently stirs the golden leaves, as if it is waving goodbye too."
+      "text": "The swallow spreads her little wings and lifts into the sky. \"I will come back in spring!\" she calls from above. \"Safe travels, dear friend!\" {name} calls back. {name} watches the tiny dot melt away into the distance. The wind gently stirs the golden leaves, as if it is waving goodbye too.",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "And then a small grey pebble settles inside the fawn's chest. It is cool and a little heavy — this is sadness. {name} stands on the empty meadow, very still and quiet. Leaves twirl nearby, but the fawn does not feel like playing at all. Even the breeze grows quiet, as if it feels sad too."
+      "text": "And then a small grey pebble settles inside the fawn's chest. It is cool and a little heavy — this is sadness. {name} stands on the empty meadow, very still and quiet. Leaves twirl nearby, but the fawn does not feel like playing at all. Even the breeze grows quiet, as if it feels sad too.",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "Home smells of mint and warm hay. But {name} does not want to play or to have any supper. The little fawn lies down quietly and stares at one small spot. The hay rustles softly, but tonight even that brings no joy. The fawn's thoughts drift after the swallow, far, far away."
+      "text": "Home smells of mint and warm hay. But {name} does not want to play or to have any supper. The little fawn lies down quietly and stares at one small spot. The hay rustles softly, but tonight even that brings no joy. The fawn's thoughts drift after the swallow, far, far away.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "Mother deer bends down very close and breathes warmly. That gentle breath feels cozy, like a little piece of summer. {name} can feel it: beside mother, even the silence turns soft. \"I can see that you are sad,\" she says gently. \"Tell me — what does your sadness feel like?\""
+      "text": "Mother deer bends down very close and breathes warmly. That gentle breath feels cozy, like a little piece of summer. {name} can feel it: beside mother, even the silence turns soft. \"I can see that you are sad,\" she says gently. \"Tell me — what does your sadness feel like?\"",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "{name} looks up at mother with big eyes. \"There is a pebble in my chest,\" the little fawn says softly. \"Grey and heavy.\" The fawn's voice trembles like a leaf in the wind. Mother nods: \"I know that pebble well.\" Mother listens with all her heart, quiet and near. And at mother's words, that little chest feels a bit warmer. In that gentle quiet, the pebble feels a little smaller."
+      "text": "{name} looks up at mother with big eyes. \"There is a pebble in my chest,\" the little fawn says softly. \"Grey and heavy.\" The fawn's voice trembles like a leaf in the wind. Mother nods: \"I know that pebble well.\" Mother listens with all her heart, quiet and near. And at mother's words, that little chest feels a bit warmer. In that gentle quiet, the pebble feels a little smaller.",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "\"We do not need to chase sadness away,\" mother whispers. \"Let us sit beside it a little while.\" They sit close together, and {name} feels the warmth of mother's side. Beneath that warm side, mother's heart beats — thump-thump, calm and steady. {name} breathes softly in time with it. The pebble is still there, but it presses a little less."
+      "text": "\"We do not need to chase sadness away,\" mother whispers. \"Let us sit beside it a little while.\" They sit close together, and {name} feels the warmth of mother's side. Beneath that warm side, mother's heart beats — thump-thump, calm and steady. {name} breathes softly in time with it. The pebble is still there, but it presses a little less.",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "\"You know,\" mother smiles, \"when you miss someone, it helps to write a letter.\" {name} lifts those little ears and listens closely. The fawn's eyes grow round and round with wonder. Something warm and new stirs softly in that little heart. \"A letter? But made of what?\" Mother nods, as if she knows a lovely secret. And the whole evening grows a little gentler than before."
+      "text": "\"You know,\" mother smiles, \"when you miss someone, it helps to write a letter.\" {name} lifts those little ears and listens closely. The fawn's eyes grow round and round with wonder. Something warm and new stirs softly in that little heart. \"A letter? But made of what?\" Mother nods, as if she knows a lovely secret. And the whole evening grows a little gentler than before.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "\"Out of the most beautiful autumn leaves,\" mother says. \"Come, let us gather them together.\" {name} carefully rises up on those thin little legs. The little legs still tremble a bit, yet the little heart beats livelier now. For the first time all evening, the fawn wants to go somewhere. \"Let us go, Mama!\" {name} says softly."
+      "text": "\"Out of the most beautiful autumn leaves,\" mother says. \"Come, let us gather them together.\" {name} carefully rises up on those thin little legs. The little legs still tremble a bit, yet the little heart beats livelier now. For the first time all evening, the fawn wants to go somewhere. \"Let us go, Mama!\" {name} says softly.",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "Outside, the forest bathes in golden evening light. {name} steps onto a soft carpet of leaves — swish, swish. The air smells of rain and tree bark. Every leaf beneath those little hooves whispers warmly. {name} breathes in deep, deep, and that little chest feels wide and light inside."
+      "text": "Outside, the forest bathes in golden evening light. {name} steps onto a soft carpet of leaves — swish, swish. The air smells of rain and tree bark. Every leaf beneath those little hooves whispers warmly. {name} breathes in deep, deep, and that little chest feels wide and light inside.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "{name} finds the first leaf — red as a little sun. It is smooth and light as a feather. \"This one is for the swallow!\" the fawn says brightly. {name} holds it carefully, like a true little wonder. And the pebble in that little chest grows a touch lighter."
+      "text": "{name} finds the first leaf — red as a little sun. It is smooth and light as a feather. \"This one is for the swallow!\" the fawn says brightly. {name} holds it carefully, like a true little wonder. And the pebble in that little chest grows a touch lighter.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "Nearby lies a leaf as yellow as honey, and another as russet as a fox's tail. {name} gathers them carefully, one beside the other. The leaves smell of sunshine and forest. \"This one is about our games, and this one about the clouds,\" {name} whispers. With every leaf, that little heart grows brighter."
+      "text": "Nearby lies a leaf as yellow as honey, and another as russet as a fox's tail. {name} gathers them carefully, one beside the other. The leaves smell of sunshine and forest. \"This one is about our games, and this one about the clouds,\" {name} whispers. With every leaf, that little heart grows brighter.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "A little breeze softly strokes the fawn along its back. It is warm and playful, swirling close all around. {name} smiles at it: \"Carry my letter to the swallow, will you?\" The leaves rustle as if they nod in reply. {name} listens to that whisper — quiet and kind, like a promise."
+      "text": "A little breeze softly strokes the fawn along its back. It is warm and playful, swirling close all around. {name} smiles at it: \"Carry my letter to the swallow, will you?\" The leaves rustle as if they nod in reply. {name} listens to that whisper — quiet and kind, like a promise.",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "Mother deer stacks the leaves into a warm little bundle, like real pages. \"Each leaf is a word for the swallow,\" she says. {name} adds one more, the brightest of them all. The bundle turns out soft and sweet-smelling, like autumn itself. \"The finest letter in the whole forest,\" mother smiles quietly."
+      "text": "Mother deer stacks the leaves into a warm little bundle, like real pages. \"Each leaf is a word for the swallow,\" she says. {name} adds one more, the brightest of them all. The bundle turns out soft and sweet-smelling, like autumn itself. \"The finest letter in the whole forest,\" mother smiles quietly.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "\"And what shall I say to the swallow?\" {name} asks softly. \"Say what is in your heart,\" mother smiles. And the little fawn whispers a kind word to each leaf. The words find themselves — simple and warm, like mother's side. The leaves listen closely, without a single rustle."
+      "text": "\"And what shall I say to the swallow?\" {name} asks softly. \"Say what is in your heart,\" mother smiles. And the little fawn whispers a kind word to each leaf. The words find themselves — simple and warm, like mother's side. The leaves listen closely, without a single rustle.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "\"I will miss you,\" {name} whispers. \"But I know that you will come back.\" The last word floats up with a leaf into the evening sky. {name} watches the leaf sway high, high above. The breeze carries it tenderly, like the most important letter in the world. The pebble in that little chest becomes very small and warm."
+      "text": "\"I will miss you,\" {name} whispers. \"But I know that you will come back.\" The last word floats up with a leaf into the evening sky. {name} watches the leaf sway high, high above. The breeze carries it tenderly, like the most important letter in the world. The pebble in that little chest becomes very small and warm.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "The sky turns pink and quiet, and the first little stars light up in the forest. They twinkle softly and kindly. {name} looks up to where the swallow flew away. Somewhere in the warm lands, the dear friend sees these very same stars. At that thought, the sky seems a little closer. \"Good night, dear friend,\" the little fawn whispers gently."
+      "text": "The sky turns pink and quiet, and the first little stars light up in the forest. They twinkle softly and kindly. {name} looks up to where the swallow flew away. Somewhere in the warm lands, the dear friend sees these very same stars. At that thought, the sky seems a little closer. \"Good night, dear friend,\" the little fawn whispers gently.",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "Mother deer leads the little fawn home through the sleepy forest. The trees stand very, very still, as if they are dozing already. The leaves rustle softly underfoot: swish-swish. {name} walks close beside her, and that little heart is calm. Mother's side is warm, and every step grows slower and sleepier."
+      "text": "Mother deer leads the little fawn home through the sleepy forest. The trees stand very, very still, as if they are dozing already. The leaves rustle softly underfoot: swish-swish. {name} walks close beside her, and that little heart is calm. Mother's side is warm, and every step grows slower and sleepier.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "Home is warm, and smells of dry leaves. {name} curls up in a soft little nest of hay. The nest feels snug, like mother's embrace. Mother tucks the little fawn in, like a warm autumn blanket. The fawn's eyes slowly grow heavy."
+      "text": "Home is warm, and smells of dry leaves. {name} curls up in a soft little nest of hay. The nest feels snug, like mother's embrace. Mother tucks the little fawn in, like a warm autumn blanket. The fawn's eyes slowly grow heavy.",
+      "audio": "en_p21.mp3"
     },
     {
       "image": "p22.jpg",
-      "text": "\"Will spring really come?\" {name} asks very softly. \"Surely it will,\" mother whispers. \"And with it, your swallow too.\" Mother's voice sounds soft, like a lullaby. The words float by quietly, like leaves upon the water. The little fawn smiles through its drowsiness."
+      "text": "\"Will spring really come?\" {name} asks very softly. \"Surely it will,\" mother whispers. \"And with it, your swallow too.\" Mother's voice sounds soft, like a lullaby. The words float by quietly, like leaves upon the water. The little fawn smiles through its drowsiness.",
+      "audio": "en_p22.mp3"
     },
     {
       "image": "p23.jpg",
-      "text": "The sadness is no longer a grey pebble, but a warm little star in that little chest. It glows gently and is in no hurry at all. {name} knows now: it is all right to be sad, and sadness grows lighter when it is shared. The fawn's breathing grows quiet and even. Beyond the window, the real stars shine softly."
+      "text": "The sadness is no longer a grey pebble, but a warm little star in that little chest. It glows gently and is in no hurry at all. {name} knows now: it is all right to be sad, and sadness grows lighter when it is shared. The fawn's breathing grows quiet and even. Beyond the window, the real stars shine softly.",
+      "audio": "en_p23.mp3"
     },
     {
       "image": "p24.jpg",
-      "text": "{name} yawns sweetly and closes those big eyes. Sleep comes in quietly, on soft little paws. In the fawn's dreams, a warm spring is already twirling, and in it — the dear familiar swallow. Beyond the window, the forest whispers its very quietest song. Good night, gentle little fawn. See you in the spring."
+      "text": "{name} yawns sweetly and closes those big eyes. Sleep comes in quietly, on soft little paws. In the fawn's dreams, a warm spring is already twirling, and in it — the dear familiar swallow. Beyond the window, the forest whispers its very quietest song. Good night, gentle little fawn. See you in the spring.",
+      "audio": "en_p24.mp3"
     }
   ]
 }

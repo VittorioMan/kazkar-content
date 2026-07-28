@@ -7,91 +7,113 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a tiny velvet-black little mole with soft pink shovel-paws and teeny round spectacles on that little nose. Deep underground it is warm and dark and cozy. The earth here smells sweet and homey. The quiet all around is gentle, like a downy little blanket. {name} loves every little corner of that cozy burrow."
+      "text": "This is {name}. {name} is a tiny velvet-black little mole with soft pink shovel-paws and teeny round spectacles on that little nose. Deep underground it is warm and dark and cozy. The earth here smells sweet and homey. The quiet all around is gentle, like a downy little blanket. {name} loves every little corner of that cozy burrow.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "{name} digs long, cozy little tunnels and hums a soft, happy tune. The tune comes out simple and merry, like a little drop of dew. The lantern with its friendly firefly sways alongside, glowing soft and warm. The firefly winks along in time, and warm little lights dance across the walls. Down here every little pebble feels familiar. Digging is the little mole's favorite thing in the whole world."
+      "text": "{name} digs long, cozy little tunnels and hums a soft, happy tune. The tune comes out simple and merry, like a little drop of dew. The lantern with its friendly firefly sways alongside, glowing soft and warm. The firefly winks along in time, and warm little lights dance across the walls. Down here every little pebble feels familiar. Digging is the little mole's favorite thing in the whole world.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "But every morning strange sounds drift down from above. Something rustles, something trickles, and somebody sings little songs. The sounds grow softer, then ring out clearer again, as if inviting the little mole to play. {name} perks up those ears and wonders: what could be up there? \"Who could be singing so sweetly?\" whispers the little mole. Those sounds are like a kind little riddle, just begging to be solved."
+      "text": "But every morning strange sounds drift down from above. Something rustles, something trickles, and somebody sings little songs. The sounds grow softer, then ring out clearer again, as if inviting the little mole to play. {name} perks up those ears and wonders: what could be up there? \"Who could be singing so sweetly?\" whispers the little mole. Those sounds are like a kind little riddle, just begging to be solved.",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "{name} presses a little pink paw to the tunnel ceiling. From up there drifts something fresh and warm. The earth under the paw trembles ever so slightly, as if murmuring something too. That small heart whispers: up above hides something big and wonderful. {name} closes those eyes and listens hard, oh so hard. How lovely it would be to take just one tiny peek at that wonder!"
+      "text": "{name} presses a little pink paw to the tunnel ceiling. From up there drifts something fresh and warm. The earth under the paw trembles ever so slightly, as if murmuring something too. That small heart whispers: up above hides something big and wonderful. {name} closes those eyes and listens hard, oh so hard. How lovely it would be to take just one tiny peek at that wonder!",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "One morning {name} gathers up all that courage. \"Today I will see what is up there!\" the little mole decides. And starts to dig up-up-up. The little paws tremble just a tiny bit with excitement, but curiosity is stronger. The earth gives way easily, as if it is glad about the journey too."
+      "text": "One morning {name} gathers up all that courage. \"Today I will see what is up there!\" the little mole decides. And starts to dig up-up-up. The little paws tremble just a tiny bit with excitement, but curiosity is stronger. The earth gives way easily, as if it is glad about the journey too.",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "The shovel-paws work quick and busy: dig-dig-dig. Little pebbles rustle softly and roll down past the paws. The earth grows lighter and the air grows fresher. With every push the breathing feels easier and merrier. {name} feels a warm shimmer of light tickling from above. \"Just a little more, just a tiny drop more!\" whispers the little mole."
+      "text": "The shovel-paws work quick and busy: dig-dig-dig. Little pebbles rustle softly and roll down past the paws. The earth grows lighter and the air grows fresher. With every push the breathing feels easier and merrier. {name} feels a warm shimmer of light tickling from above. \"Just a little more, just a tiny drop more!\" whispers the little mole.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "All at once the paws break through the very last layer of earth — and everything bursts with light! {name} pops up right in the middle of a big green meadow. At first everything looks dazzling white, then the eyes slowly get used to the glow. Oh, how bright this world is! The air up here tastes sweet, like a sip of spring water. That little heart hops and skips with happiness."
+      "text": "All at once the paws break through the very last layer of earth — and everything bursts with light! {name} pops up right in the middle of a big green meadow. At first everything looks dazzling white, then the eyes slowly get used to the glow. Oh, how bright this world is! The air up here tastes sweet, like a sip of spring water. That little heart hops and skips with happiness.",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "The sun warms that little back with soft, warm hands. {name} squints in the bright light and beams with joy. The warmth spreads from the little nose all the way down to the tips of the paws. \"Hello, sun!\" the little mole says softly. Never before has the world felt so bright and wide. It feels lovely to stand like this, smiling and smiling, for a long, long while."
+      "text": "The sun warms that little back with soft, warm hands. {name} squints in the bright light and beams with joy. The warmth spreads from the little nose all the way down to the tips of the paws. \"Hello, sun!\" the little mole says softly. Never before has the world felt so bright and wide. It feels lovely to stand like this, smiling and smiling, for a long, long while.",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "The grass tickles those little paws and softly rustles: shush-shush-shush. {name} steps carefully between the tall stalks. Every single blade here is taller than the little mole itself! It feels like wandering through a gentle green forest. The stalks sway overhead and whisper something soft of their own. {name} moves along slowly, slowly, so as not to trouble a single blade."
+      "text": "The grass tickles those little paws and softly rustles: shush-shush-shush. {name} steps carefully between the tall stalks. Every single blade here is taller than the little mole itself! It feels like wandering through a gentle green forest. The stalks sway overhead and whisper something soft of their own. {name} moves along slowly, slowly, so as not to trouble a single blade.",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "Somewhere near a little stream trickles: trickle-trickle-trickle. {name} leans over the water and sees its own surprised face in the spectacles. \"Oh, hello there!\" laughs the little mole at the funny face in the water. Cool little droplets tickle that nose. The water sparkles in the sun like scattered silver beads. The stream's little song is so bright and merry, you could listen to it all day."
+      "text": "Somewhere near a little stream trickles: trickle-trickle-trickle. {name} leans over the water and sees its own surprised face in the spectacles. \"Oh, hello there!\" laughs the little mole at the funny face in the water. Cool little droplets tickle that nose. The water sparkles in the sun like scattered silver beads. The stream's little song is so bright and merry, you could listen to it all day.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "Above the flowers a round little bumblebee hums: buzz-buzz-buzz. It sails grandly from flower to flower, like a fluffy little boat. Scents of honey and warm sunshine tickle that nose. {name} takes a deep breath — and laughs with delight. \"Good day, busy friend!\" calls the little mole. The flowers sway gently, as if nodding hello back."
+      "text": "Above the flowers a round little bumblebee hums: buzz-buzz-buzz. It sails grandly from flower to flower, like a fluffy little boat. Scents of honey and warm sunshine tickle that nose. {name} takes a deep breath — and laughs with delight. \"Good day, busy friend!\" calls the little mole. The flowers sway gently, as if nodding hello back.",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "Then down from the sky flutters a butterfly, circling closer and closer. It dances through the air, light as a flower petal. {name} goes still and watches, holding that breath. Its wings shimmer blue and gold. That little heart whispers: gently now, do not startle such beauty. {name} stands as still as the most patient little pebble in the meadow."
+      "text": "Then down from the sky flutters a butterfly, circling closer and closer. It dances through the air, light as a flower petal. {name} goes still and watches, holding that breath. Its wings shimmer blue and gold. That little heart whispers: gently now, do not startle such beauty. {name} stands as still as the most patient little pebble in the meadow.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "And suddenly the butterfly lands right on the tip of that nose! {name} goes cross-eyed and giggles softly. It tickles, warm and wonderfully funny. The wings flutter ever so lightly, as if sharing a little secret. \"You are my new friend up here,\" the little mole whispers. And tries not to wiggle at all, so the little guest will stay a moment longer."
+      "text": "And suddenly the butterfly lands right on the tip of that nose! {name} goes cross-eyed and giggles softly. It tickles, warm and wonderfully funny. The wings flutter ever so lightly, as if sharing a little secret. \"You are my new friend up here,\" the little mole whispers. And tries not to wiggle at all, so the little guest will stay a moment longer.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "The butterfly flutters off, and {name} waves a little paw goodbye. \"Come back soon!\" calls the little mole after it. So many new things in a single morning! The little mole looks around again and again with joy. The meadow hums gently, as if promising new wonderful meetings."
+      "text": "The butterfly flutters off, and {name} waves a little paw goodbye. \"Come back soon!\" calls the little mole after it. So many new things in a single morning! The little mole looks around again and again with joy. The meadow hums gently, as if promising new wonderful meetings.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "The sky softly greys, and a gentle summer rain drifts over the meadow. Drip-drop-drip — the droplets dance on the blades of grass. {name} holds out its paws and catches the cool little pearls. Tiny splashes tickle the little palms and scatter merrily every which way. The rain hums its quiet song, and the meadow listens closely. {name} laughs: wet little paws, and such warmth inside!"
+      "text": "The sky softly greys, and a gentle summer rain drifts over the meadow. Drip-drop-drip — the droplets dance on the blades of grass. {name} holds out its paws and catches the cool little pearls. Tiny splashes tickle the little palms and scatter merrily every which way. The rain hums its quiet song, and the meadow listens closely. {name} laughs: wet little paws, and such warmth inside!",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "The rain smells of mushrooms and damp earth — and that smell is a little like home. {name} smiles and thinks of that cozy burrow. Down below wait the warm little nest and the familiar, gentle quiet. The big world is wonderful, yet the little burrow is lovely too. The thought of home glows inside like a tiny sun. \"Time to head back, nice and slow,\" the little mole decides."
+      "text": "The rain smells of mushrooms and damp earth — and that smell is a little like home. {name} smiles and thinks of that cozy burrow. Down below wait the warm little nest and the familiar, gentle quiet. The big world is wonderful, yet the little burrow is lovely too. The thought of home glows inside like a tiny sun. \"Time to head back, nice and slow,\" the little mole decides.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "Having seen its fill, {name} quietly turns back to its little window in the ground. \"Thank you, big wide world,\" whispers the little mole. The lantern glows its warm little light again: time for home. The meadow softly rustles after it: goodbye! The grass brushes those little paws one more tender time in farewell. The rain taps out its quiet drip-drop, as if saying: come again soon."
+      "text": "Having seen its fill, {name} quietly turns back to its little window in the ground. \"Thank you, big wide world,\" whispers the little mole. The lantern glows its warm little light again: time for home. The meadow softly rustles after it: goodbye! The grass brushes those little paws one more tender time in farewell. The rain taps out its quiet drip-drop, as if saying: come again soon.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "Down-down-down leads the familiar little tunnel. The paws know the way all by themselves — every turn here feels dear. The deeper it goes, the warmer and cozier it grows. The earth wraps around with soft warmth on every side. {name} hears the rain still softly trickling above, while down here it is all quiet and calm. Heading home feels just as sweet as wandering."
+      "text": "Down-down-down leads the familiar little tunnel. The paws know the way all by themselves — every turn here feels dear. The deeper it goes, the warmer and cozier it grows. The earth wraps around with soft warmth on every side. {name} hears the rain still softly trickling above, while down here it is all quiet and calm. Heading home feels just as sweet as wandering.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "And here is the dear little burrow — warm, soft, familiar down to the tiniest pebble. {name} settles snugly into a little nest of dry leaves. The little leaves whisper softly underneath: rustle-rustle. Here it smells of calm and home. The tiredness after such a journey feels gentle and sweet. How good it is to come home, where coziness is waiting."
+      "text": "And here is the dear little burrow — warm, soft, familiar down to the tiniest pebble. {name} settles snugly into a little nest of dry leaves. The little leaves whisper softly underneath: rustle-rustle. Here it smells of calm and home. The tiredness after such a journey feels gentle and sweet. How good it is to come home, where coziness is waiting.",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "But this time {name} digs a tiny window upward — right up to the meadow. A little sunbeam peeks through it, and sometimes that same butterfly too. The sunbeam settles on the burrow floor like a warm golden patch. Now the big world is always close by. There is no need to choose between home and the world — let there be both. {name} looks at the little window and quietly glows with joy."
+      "text": "But this time {name} digs a tiny window upward — right up to the meadow. A little sunbeam peeks through it, and sometimes that same butterfly too. The sunbeam settles on the burrow floor like a warm golden patch. Now the big world is always close by. There is no need to choose between home and the world — let there be both. {name} looks at the little window and quietly glows with joy.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "Through the little window drift the sounds of the meadow above: rustling, trickling, and somebody's songs. Every sound feels familiar now, like an old friend. {name} listens and smiles, curled up in a warm little ball. The sounds grow softer and softer, like a lullaby. The eyelids drift down all by themselves, gently and slowly. Home is dearest, and the world is big and kind."
+      "text": "Through the little window drift the sounds of the meadow above: rustling, trickling, and somebody's songs. Every sound feels familiar now, like an old friend. {name} listens and smiles, curled up in a warm little ball. The sounds grow softer and softer, like a lullaby. The eyelids drift down all by themselves, gently and slowly. Home is dearest, and the world is big and kind.",
+      "audio": "en_p21.mp3"
     },
     {
       "image": "p22.jpg",
-      "text": "The lantern dims softly, and {name} gives a sweet little yawn. Beyond the window the first stars are shining, and the burrow is warm and safe. The little stars twinkle kindly, as if wishing sweet dreams. The breathing grows slow and even, like still water. The eyes close, and sleep drifts in, soft and gentle. Good night, little brave explorer!"
+      "text": "The lantern dims softly, and {name} gives a sweet little yawn. Beyond the window the first stars are shining, and the burrow is warm and safe. The little stars twinkle kindly, as if wishing sweet dreams. The breathing grows slow and even, like still water. The eyes close, and sleep drifts in, soft and gentle. Good night, little brave explorer!",
+      "audio": "en_p22.mp3"
     }
   ]
 }

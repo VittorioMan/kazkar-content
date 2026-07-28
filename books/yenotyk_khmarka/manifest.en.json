@@ -7,91 +7,113 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a fluffy little raccoon with a dark mask around bright eyes and quick, clever paws. Home is a cozy burrow under an old oak tree, right at the edge of a sunny forest clearing. The oak leaves rustle softly above the burrow, as if saying hello. More than anything in the world, {name} loves to build things. And today those little paws are itching to get started!"
+      "text": "This is {name}. {name} is a fluffy little raccoon with a dark mask around bright eyes and quick, clever paws. Home is a cozy burrow under an old oak tree, right at the edge of a sunny forest clearing. The oak leaves rustle softly above the burrow, as if saying hello. More than anything in the world, {name} loves to build things. And today those little paws are itching to get started!",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "Today {name} has a grand plan: a pebble tower! Down by the stream the pebbles are round and smooth and warm from the sun. The water burbles merrily, as if it likes the plan too. The pebbles tickle the soft paw pads — so smooth, so pleasant. {name} scoops up a whole pawful — click, clack, click. \"This will be the finest tower in the whole clearing!\" thinks {name}."
+      "text": "Today {name} has a grand plan: a pebble tower! Down by the stream the pebbles are round and smooth and warm from the sun. The water burbles merrily, as if it likes the plan too. The pebbles tickle the soft paw pads — so smooth, so pleasant. {name} scoops up a whole pawful — click, clack, click. \"This will be the finest tower in the whole clearing!\" thinks {name}.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "One pebble, two pebbles, three... {name} stacks them oh-so-carefully, tongue tip poking out with the effort. Each pebble settles onto the last — softly, gently, right in the middle. A happy little heart goes pitter-pat with joy. \"Just a bit more, just one more,\" whispers {name}. The tower grows taller than a dandelion!"
+      "text": "One pebble, two pebbles, three... {name} stacks them oh-so-carefully, tongue tip poking out with the effort. Each pebble settles onto the last — softly, gently, right in the middle. A happy little heart goes pitter-pat with joy. \"Just a bit more, just one more,\" whispers {name}. The tower grows taller than a dandelion!",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "Wibble-wobble — down it tumbles! The pebbles roll off in every direction. They thump softly on the ground and hide in the grass. One rolls all the way under a leaf — hey, come back! {name} sighs, picks them up, and starts again. Oh well, these things happen. Patient paws gather them all, pebble by pebble."
+      "text": "Wibble-wobble — down it tumbles! The pebbles roll off in every direction. They thump softly on the ground and hide in the grass. One rolls all the way under a leaf — hey, come back! {name} sighs, picks them up, and starts again. Oh well, these things happen. Patient paws gather them all, pebble by pebble.",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "The tower falls a second time, right in front of that little black nose. {name} frowns. Something inside starts to prickle, like a warm little ember. The stripy tail twitches all by itself. \"But why, why does it keep falling?\" mutters {name}. Now the paws are stacking faster — and grumpier."
+      "text": "The tower falls a second time, right in front of that little black nose. {name} frowns. Something inside starts to prickle, like a warm little ember. The stripy tail twitches all by itself. \"But why, why does it keep falling?\" mutters {name}. Now the paws are stacking faster — and grumpier.",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "And then — a third time! The pebbles bounce into the grass like little grasshoppers. {name} stomps a paw — STOMP! — and suddenly a small grumpy cloud appears right above that furry head. Two furry cheeks puff up, and something bubbles in that little chest. Where did this cloud come from? Just a moment ago it wasn't there at all!"
+      "text": "And then — a third time! The pebbles bounce into the grass like little grasshoppers. {name} stomps a paw — STOMP! — and suddenly a small grumpy cloud appears right above that furry head. Two furry cheeks puff up, and something bubbles in that little chest. Where did this cloud come from? Just a moment ago it wasn't there at all!",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "The cloud is grey and scruffy, with cross little eyebrows. It huffs and puffs up there like a tiny kettle. {name} stomps again — stomp-stomp! — and the cloud grows a bit bigger. Uh-oh. {name} looks up and blinks: what kind of cloud is this — and what does it want?"
+      "text": "The cloud is grey and scruffy, with cross little eyebrows. It huffs and puffs up there like a tiny kettle. {name} stomps again — stomp-stomp! — and the cloud grows a bit bigger. Uh-oh. {name} looks up and blinks: what kind of cloud is this — and what does it want?",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "{name} shouts at the cloud: \"Go away!\" The shout is so loud it rings in those little ears. But shouting only makes the cloud darker, and it grumbles right back: rumble-rumble-rumble. \"Away, away!\" calls {name}, louder still. But the cloud won't budge — it only grumbles harder."
+      "text": "{name} shouts at the cloud: \"Go away!\" The shout is so loud it rings in those little ears. But shouting only makes the cloud darker, and it grumbles right back: rumble-rumble-rumble. \"Away, away!\" calls {name}, louder still. But the cloud won't budge — it only grumbles harder.",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "{name} hides under a big burdock leaf and peeks out ever so quietly. Under the leaf it smells of green and cool shade, and a little heart beats fast, fast, fast. \"Maybe the cloud won't notice?\" thinks {name}. But there is the cloud — hovering right above the leaf, darker than ever. No such luck — who can ever hide from their own cloud?"
+      "text": "{name} hides under a big burdock leaf and peeks out ever so quietly. Under the leaf it smells of green and cool shade, and a little heart beats fast, fast, fast. \"Maybe the cloud won't notice?\" thinks {name}. But there is the cloud — hovering right above the leaf, darker than ever. No such luck — who can ever hide from their own cloud?",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "{name} runs around the clearing — fast, fast, fast! The grass swishes underpaw, and the wind whistles past those little ears. The cloud flies right behind, as if tied on with a string. Plip! — down falls the first grumpy little raindrop. It lands right on the little black nose — cold and wet. {name} stops to catch a breath: running away doesn't help either."
+      "text": "{name} runs around the clearing — fast, fast, fast! The grass swishes underpaw, and the wind whistles past those little ears. The cloud flies right behind, as if tied on with a string. Plip! — down falls the first grumpy little raindrop. It lands right on the little black nose — cold and wet. {name} stops to catch a breath: running away doesn't help either.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "{name} plops down in the grass and frowns at the whole forest. The little paws are tired, and even the stripy tail lies sadly in the grass. The cloud is as big as a pillow now, and something inside it rumbles — quietly, but very crossly. Shouting doesn't help, hiding doesn't help, running doesn't help either. That little nose even tingles a bit — my, what a stubborn cloud! What now?"
+      "text": "{name} plops down in the grass and frowns at the whole forest. The little paws are tired, and even the stripy tail lies sadly in the grass. The cloud is as big as a pillow now, and something inside it rumbles — quietly, but very crossly. Shouting doesn't help, hiding doesn't help, running doesn't help either. That little nose even tingles a bit — my, what a stubborn cloud! What now?",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "Just then Granny Badger comes down the path with a basket of sweet-smelling herbs. The basket smells of mint and thyme — warm and homey. Her steps are slow and easy, and her eyes are kind, so kind. She looks at the cloud and isn't surprised one bit. \"Well, well,\" she says gently, \"I know that cloud.\" {name} lifts that furry head and gives a little sniff."
+      "text": "Just then Granny Badger comes down the path with a basket of sweet-smelling herbs. The basket smells of mint and thyme — warm and homey. Her steps are slow and easy, and her eyes are kind, so kind. She looks at the cloud and isn't surprised one bit. \"Well, well,\" she says gently, \"I know that cloud.\" {name} lifts that furry head and gives a little sniff.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "\"That's anger,\" Granny explains. \"It visits everyone. It even visits me.\" {name} blinks in surprise — does Granny really get a cloud like this too? \"Oh yes, and an even bigger one!\" she laughs. Granny's laugh is warm, like summer sunshine. At the sound of it, even the cloud stops grumbling for a moment. {name} listens very, very closely, ears perked right up."
+      "text": "\"That's anger,\" Granny explains. \"It visits everyone. It even visits me.\" {name} blinks in surprise — does Granny really get a cloud like this too? \"Oh yes, and an even bigger one!\" she laughs. Granny's laugh is warm, like summer sunshine. At the sound of it, even the cloud stops grumbling for a moment. {name} listens very, very closely, ears perked right up.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "\"If you shout at anger, it grows. If you hide, it follows. But I know a secret...\" And Granny picks a fluffy white dandelion. \"A secret?\" whispers {name}. The dandelion in Granny's paw is round and white, like a tiny cloud — only a kind one. Even the grumpy cloud up above seems to hush with curiosity."
+      "text": "\"If you shout at anger, it grows. If you hide, it follows. But I know a secret...\" And Granny picks a fluffy white dandelion. \"A secret?\" whispers {name}. The dandelion in Granny's paw is round and white, like a tiny cloud — only a kind one. Even the grumpy cloud up above seems to hush with curiosity.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "\"Watch. Breathe in through your nose, slowly, like you're smelling a flower. Now blow on the dandelion, soft and slow and long, so the fluff floats away gently.\" Granny shows how: she breathes in, and her shoulders slowly rise; she breathes out, and gently down they sink. The seeds drift through the air like tiny parasols. They twirl and sway and tickle the air. {name} watches every single one — and each breath grows slower all by itself."
+      "text": "\"Watch. Breathe in through your nose, slowly, like you're smelling a flower. Now blow on the dandelion, soft and slow and long, so the fluff floats away gently.\" Granny shows how: she breathes in, and her shoulders slowly rise; she breathes out, and gently down they sink. The seeds drift through the air like tiny parasols. They twirl and sway and tickle the air. {name} watches every single one — and each breath grows slower all by itself.",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "{name} holds the dandelion in both paws. The stem tickles the soft paw pads. In through the nose — like smelling a flower. Then a long, slow breath out: whoooosh... The fluff sails away, soft and easy. The seeds lift off one by one, white and light, and inside that furry chest it grows quiet, quiet and warm."
+      "text": "{name} holds the dandelion in both paws. The stem tickles the soft paw pads. In through the nose — like smelling a flower. Then a long, slow breath out: whoooosh... The fluff sails away, soft and easy. The seeds lift off one by one, white and light, and inside that furry chest it grows quiet, quiet and warm.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "The cloud overhead turns lighter! It was dark — now it's soft grey, like a little mouse. The cloud's little eyebrows aren't nearly so cross anymore. {name} looks up and smiles a small, quiet smile: it works — the secret really works! \"One more time,\" smiles Granny Badger."
+      "text": "The cloud overhead turns lighter! It was dark — now it's soft grey, like a little mouse. The cloud's little eyebrows aren't nearly so cross anymore. {name} looks up and smiles a small, quiet smile: it works — the secret really works! \"One more time,\" smiles Granny Badger.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "{name} breathes in through the nose again and lets the air out slowly: whoooosh... The air flows out long and slow, like a soft little song without words. Shoulders sink down, paws go soft. The cloud shrinks smaller and smaller, and turns white and soft as dandelion fluff. Even the grass all around seems to breathe along — slow and calm."
+      "text": "{name} breathes in through the nose again and lets the air out slowly: whoooosh... The air flows out long and slow, like a soft little song without words. Shoulders sink down, paws go soft. The cloud shrinks smaller and smaller, and turns white and soft as dandelion fluff. Even the grass all around seems to breathe along — slow and calm.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "The third breath is the slowest of all. The cloud turns tiny and gentle, and the breeze carries it away over the old oak. {name} waves a paw: bye-bye, little cloud! The cloud sways gently, as if waving back. The breeze softly ruffles that fluffy fur. Inside the little raccoon's chest it feels roomy and warm and bright."
+      "text": "The third breath is the slowest of all. The cloud turns tiny and gentle, and the breeze carries it away over the old oak. {name} waves a paw: bye-bye, little cloud! The cloud sways gently, as if waving back. The breeze softly ruffles that fluffy fur. Inside the little raccoon's chest it feels roomy and warm and bright.",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "\"You see,\" says Granny, \"anger fades when you don't feed it — not with shouting, not with stomping. Breathe slowly, and off it goes.\" \"And there's no need to be ashamed of the cloud — everyone gets one,\" she adds gently. Her voice is soft and warm, like a pillow stuffed with herbs. {name} nods happily. A little heart feels light as can be."
+      "text": "\"You see,\" says Granny, \"anger fades when you don't feed it — not with shouting, not with stomping. Breathe slowly, and off it goes.\" \"And there's no need to be ashamed of the cloud — everyone gets one,\" she adds gently. Her voice is soft and warm, like a pillow stuffed with herbs. {name} nods happily. A little heart feels light as can be.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "Then they build the tower together, and Granny passes the pebbles one by one. The pebbles click softly as they settle one on top of another. It stands! \"Now that's a tower — taller than all the dandelions!\" beams Granny. And when one pebble tumbles off after all, {name} just blows slowly — whoooosh — and bursts out laughing. The grumpy cloud is nowhere to be seen."
+      "text": "Then they build the tower together, and Granny passes the pebbles one by one. The pebbles click softly as they settle one on top of another. It stands! \"Now that's a tower — taller than all the dandelions!\" beams Granny. And when one pebble tumbles off after all, {name} just blows slowly — whoooosh — and bursts out laughing. The grumpy cloud is nowhere to be seen.",
+      "audio": "en_p21.mp3"
     },
     {
       "image": "p22.jpg",
-      "text": "The sun settles behind the old oak, and the clearing smells of dandelions. {name} sits by the burrow and blows on one last dandelion, just for the joy of it. The fluff drifts into the warm evening air — slowly, slowly, like tiny dreams. Because now {name} knows the secret: breathe slowly, and any grumpy cloud will float away. In through the nose... a long, slow breath out... And the clearing, and the old oak, and one sleepy little raccoon all settle into a soft and gentle calm."
+      "text": "The sun settles behind the old oak, and the clearing smells of dandelions. {name} sits by the burrow and blows on one last dandelion, just for the joy of it. The fluff drifts into the warm evening air — slowly, slowly, like tiny dreams. Because now {name} knows the secret: breathe slowly, and any grumpy cloud will float away. In through the nose... a long, slow breath out... And the clearing, and the old oak, and one sleepy little raccoon all settle into a soft and gentle calm.",
+      "audio": "en_p22.mp3"
     }
   ]
 }

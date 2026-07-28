@@ -7,91 +7,113 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a tiny firefly with a soft warm-yellow light glowing on that little belly. The sun slips behind the forest, and gentle dusk settles over the meadow. The grasses breathe out the warmth of the summer day, and the air smells of honey and leaves. The little belly-light blinks softly, as if saying hello to the evening."
+      "text": "This is {name}. {name} is a tiny firefly with a soft warm-yellow light glowing on that little belly. The sun slips behind the forest, and gentle dusk settles over the meadow. The grasses breathe out the warmth of the summer day, and the air smells of honey and leaves. The little belly-light blinks softly, as if saying hello to the evening.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "Every evening hundreds of little lights flicker over the meadow. The fireflies gather for their evening dance. The lights swirl and sway, drawing bright little trails in the air. {name} watches them from below, from a slender blade of grass. \"How lovely their dance is,\" {name} whispers softly."
+      "text": "Every evening hundreds of little lights flicker over the meadow. The fireflies gather for their evening dance. The lights swirl and sway, drawing bright little trails in the air. {name} watches them from below, from a slender blade of grass. \"How lovely their dance is,\" {name} whispers softly.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "All the others have bright, big lights, but {name} has the smallest glow on the whole meadow. It shines ever so quietly, like a tiny spark. \"If only my light were that big and bright,\" {name} thinks. {name} feels a little shy and hides down in the grass. The grass tickles those little wings gently, as if to comfort."
+      "text": "All the others have bright, big lights, but {name} has the smallest glow on the whole meadow. It shines ever so quietly, like a tiny spark. \"If only my light were that big and bright,\" {name} thinks. {name} feels a little shy and hides down in the grass. The grass tickles those little wings gently, as if to comfort.",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "\"Come and dance with us!\" the other fireflies call from above. {name} only flutters those little wings and smiles quietly. \"Maybe another time,\" {name} answers, barely louder than a breath. In the evening dance such a small light would go unnoticed. And here on the blade of grass it is so cozy and calm."
+      "text": "\"Come and dance with us!\" the other fireflies call from above. {name} only flutters those little wings and smiles quietly. \"Maybe another time,\" {name} answers, barely louder than a breath. In the evening dance such a small light would go unnoticed. And here on the blade of grass it is so cozy and calm.",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "{name} settles on the petal of a bluebell and sighs. The petal sways gently, like a tiny cradle. Down below it smells of dewy grass and night flowers. Somewhere in the grass a quiet evening song chirrs away. The little belly-light blinks ever so softly. \"Who could ever need such a tiny light?\" {name} wonders quietly."
+      "text": "{name} settles on the petal of a bluebell and sighs. The petal sways gently, like a tiny cradle. Down below it smells of dewy grass and night flowers. Somewhere in the grass a quiet evening song chirrs away. The little belly-light blinks ever so softly. \"Who could ever need such a tiny light?\" {name} wonders quietly.",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "But then a grey mist comes creeping in from the forest. It rolls in low and swallows the little paths one by one. The air turns cool and smells of damp moss. The meadow grows very quiet, and the lights above turn pale. Even the little evening song in the grass falls silent. {name} peeks out of the grass and listens."
+      "text": "But then a grey mist comes creeping in from the forest. It rolls in low and swallows the little paths one by one. The air turns cool and smells of damp moss. The meadow grows very quiet, and the lights above turn pale. Even the little evening song in the grass falls silent. {name} peeks out of the grass and listens.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "Somewhere in the mist a thin little squeak rings out: \"Squeak-squeak-squeak.\" A tiny mouse has lost the path home. It trembles and cannot see which way to go. The mist all around is as thick as milk. \"Mama, where are you?\" the little mouse calls softly into the grey haze."
+      "text": "Somewhere in the mist a thin little squeak rings out: \"Squeak-squeak-squeak.\" A tiny mouse has lost the path home. It trembles and cannot see which way to go. The mist all around is as thick as milk. \"Mama, where are you?\" the little mouse calls softly into the grey haze.",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "{name} hears the quiet crying and goes still upon the grass. That little heart flutters inside: someone needs help. \"I have to help,\" {name} thinks bravely. The little wings tremble a bit, but the glow shines steady and warm. And {name} lifts off the flower, straight into the mist."
+      "text": "{name} hears the quiet crying and goes still upon the grass. That little heart flutters inside: someone needs help. \"I have to help,\" {name} thinks bravely. The little wings tremble a bit, but the glow shines steady and warm. And {name} lifts off the flower, straight into the mist.",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "In the thick mist nothing can be seen — only grey swirls all around. The mist touches the little wings with cool tiny droplets. But {name} shines with that little light right there in front. \"Shine, little light, shine,\" {name} asks in a whisper. Step by step it shows the safe little path."
+      "text": "In the thick mist nothing can be seen — only grey swirls all around. The mist touches the little wings with cool tiny droplets. But {name} shines with that little light right there in front. \"Shine, little light, shine,\" {name} asks in a whisper. Step by step it shows the safe little path.",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "\"Do not be afraid, I will light the way for you,\" {name} says gently to the little mouse. The mouse peeks out from the grass and sees the warm glow. In the grey mist it shines like a tiny star. \"Thank you, little star,\" the mouse whispers with a timid smile. Beside the warm light it is not so scary anymore."
+      "text": "\"Do not be afraid, I will light the way for you,\" {name} says gently to the little mouse. The mouse peeks out from the grass and sees the warm glow. In the grey mist it shines like a tiny star. \"Thank you, little star,\" the mouse whispers with a timid smile. Beside the warm light it is not so scary anymore.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "The little mouse steps timidly after the glow. Its paws rustle softly over the damp grass: swish-swish. {name} flies ahead very slowly, so no one gets lost. \"I am right here, stay close,\" {name} says warmly. \"This way, this way,\" the little lantern gently shines."
+      "text": "The little mouse steps timidly after the glow. Its paws rustle softly over the damp grass: swish-swish. {name} flies ahead very slowly, so no one gets lost. \"I am right here, stay close,\" {name} says warmly. \"This way, this way,\" the little lantern gently shines.",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "The path winds past wet pebbles and sleepy flowers. The pebbles glisten in the warm light like tiny mirrors. {name} lights up every little puddle so the mouse keeps its paws dry. \"Careful, it is wet here,\" {name} warns kindly. The little mouse obediently steps over the puddle: pit-pat. The glow trembles, yet it shines with all its might."
+      "text": "The path winds past wet pebbles and sleepy flowers. The pebbles glisten in the warm light like tiny mirrors. {name} lights up every little puddle so the mouse keeps its paws dry. \"Careful, it is wet here,\" {name} warns kindly. The little mouse obediently steps over the puddle: pit-pat. The glow trembles, yet it shines with all its might.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "Suddenly a big dark shadow looms up ahead. The little mouse startles and freezes. Its little heart goes thump-thump, ever so fast. But {name} flies in closer — and the shadow turns out to be only an old tree stump. \"Look, it is just an old stump,\" {name} says with a smile. The mouse breathes out in relief and even giggles softly."
+      "text": "Suddenly a big dark shadow looms up ahead. The little mouse startles and freezes. Its little heart goes thump-thump, ever so fast. But {name} flies in closer — and the shadow turns out to be only an old tree stump. \"Look, it is just an old stump,\" {name} says with a smile. The mouse breathes out in relief and even giggles softly.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "The mist slowly thins, and the stars peek down from the sky once more. {name} shines steady and warm, and the little mouse is no longer afraid. The air smells of night flowers again. \"You shine so beautifully,\" the mouse squeaks gratefully. The path leads them on and on."
+      "text": "The mist slowly thins, and the stars peek down from the sky once more. {name} shines steady and warm, and the little mouse is no longer afraid. The air smells of night flowers again. \"You shine so beautifully,\" the mouse squeaks gratefully. The path leads them on and on.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "Far ahead a warm little window blinks from a tiny burrow. The mouse squeaks with joy: \"Squeak-squeak! That is my home!\" Its little paws run faster all by themselves: pit-pat-pit-pat. {name} circles quietly above the path, happy through and through. The little belly-light blinks merrily, merrily."
+      "text": "Far ahead a warm little window blinks from a tiny burrow. The mouse squeaks with joy: \"Squeak-squeak! That is my home!\" Its little paws run faster all by themselves: pit-pat-pit-pat. {name} circles quietly above the path, happy through and through. The little belly-light blinks merrily, merrily.",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "By the burrow a mama mouse waits and hugs her little one warmly. \"Thank you, little lantern,\" she smiles, and {name} glows back with joy. \"Thank you, thank you!\" squeaks the little mouse, waving a tiny paw goodbye. \"Goodnight, little mouse,\" {name} answers gently. The belly-light now shines bright with pure happiness."
+      "text": "By the burrow a mama mouse waits and hugs her little one warmly. \"Thank you, little lantern,\" she smiles, and {name} glows back with joy. \"Thank you, thank you!\" squeaks the little mouse, waving a tiny paw goodbye. \"Goodnight, little mouse,\" {name} answers gently. The belly-light now shines bright with pure happiness.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "{name} flies back over the meadow with a warm, warm heart. It turns out even the smallest light is truly needed by someone. The grasses below rustle softly, as if they are glad too. \"My little light helped today,\" {name} thinks happily. For the first time {name} shines boldly, without hiding."
+      "text": "{name} flies back over the meadow with a warm, warm heart. It turns out even the smallest light is truly needed by someone. The grasses below rustle softly, as if they are glad too. \"My little light helped today,\" {name} thinks happily. For the first time {name} shines boldly, without hiding.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "The other fireflies drift down and circle close. \"Your light saved the little mouse!\" they say warmly. \"It shines like a true little star!\" the glowing friends rejoice. {name} glows among them, and every light seems just as lovely as the next. Big or small — each one is beautiful in its own way."
+      "text": "The other fireflies drift down and circle close. \"Your light saved the little mouse!\" they say warmly. \"It shines like a true little star!\" the glowing friends rejoice. {name} glows among them, and every light seems just as lovely as the next. Big or small — each one is beautiful in its own way.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "Now every evening {name} dances together with all the rest. The evening dance feels warmer and dearer than ever. And then {name} flies off quietly to shine above the path to the forest. \"I am here, I am glowing,\" the little light blinks gently over the sleepy grass. In case someone in the dark needs a little lantern again."
+      "text": "Now every evening {name} dances together with all the rest. The evening dance feels warmer and dearer than ever. And then {name} flies off quietly to shine above the path to the forest. \"I am here, I am glowing,\" the little light blinks gently over the sleepy grass. In case someone in the dark needs a little lantern again.",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "The sky pulls up its starry blanket, and the meadow grows still. The flowers fold their petals and drift to sleep. The air smells of dew and the cool of the night. {name} circles slowly over the sleepy grass, as if rocking it gently with that little light. \"Sleep, little flowers, sleep, little grasses,\" {name} hums ever so softly."
+      "text": "The sky pulls up its starry blanket, and the meadow grows still. The flowers fold their petals and drift to sleep. The air smells of dew and the cool of the night. {name} circles slowly over the sleepy grass, as if rocking it gently with that little light. \"Sleep, little flowers, sleep, little grasses,\" {name} hums ever so softly.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "The belly-light blinks slower and slower now — warm, calm, and gentle. {name} settles on a soft little leaf and tucks those wings in cozily. The leaf sways ever so slightly, as if rocking a cradle. All around, the night breeze whispers softly. Little eyes close all by themselves — slowly, sweetly."
+      "text": "The belly-light blinks slower and slower now — warm, calm, and gentle. {name} settles on a soft little leaf and tucks those wings in cozily. The leaf sways ever so slightly, as if rocking a cradle. All around, the night breeze whispers softly. Little eyes close all by themselves — slowly, sweetly.",
+      "audio": "en_p21.mp3"
     },
     {
       "image": "p22.jpg",
-      "text": "{name} yawns sweetly and smiles up at the stars. Now {name} knows it well: even a small light can warm the world. The little glow blinks softer and softer, like a sleepy whisper. The meadow sleeps, and its dreams are warm and bright. Goodnight, gentle little lantern. Sleep tight."
+      "text": "{name} yawns sweetly and smiles up at the stars. Now {name} knows it well: even a small light can warm the world. The little glow blinks softer and softer, like a sleepy whisper. The meadow sleeps, and its dreams are warm and bright. Goodnight, gentle little lantern. Sleep tight.",
+      "audio": "en_p22.mp3"
     }
   ]
 }

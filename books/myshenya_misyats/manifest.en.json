@@ -7,91 +7,113 @@
   "pages": [
     {
       "image": "p01.jpg",
-      "text": "This is {name}. {name} is a tiny gray mouse with big round ears, a little pink nose, and a long thin tail. Every evening before bed, {name} puts on a teeny-tiny nightcap. The nightcap is soft as a flower petal, and it keeps those round little ears warm and cozy. {name} pats it gently with one paw and gives a happy little snuffle. The burrow smells of dry grass, and the evening settles in ever so gently."
+      "text": "This is {name}. {name} is a tiny gray mouse with big round ears, a little pink nose, and a long thin tail. Every evening before bed, {name} puts on a teeny-tiny nightcap. The nightcap is soft as a flower petal, and it keeps those round little ears warm and cozy. {name} pats it gently with one paw and gives a happy little snuffle. The burrow smells of dry grass, and the evening settles in ever so gently.",
+      "audio": "en_p01.mp3"
     },
     {
       "image": "p02.jpg",
-      "text": "When the fields grow sleepy, {name} peeks out of the burrow and looks up at the sky. There floats the silver moon, round as a warm little loaf of bread. \"Why is it so round?\" {name} wonders quietly. The air smells of dew and sleepy flowers. The grass rustles ever so softly, as if whispering an evening tale. A curious little nose twitches and twitches."
+      "text": "When the fields grow sleepy, {name} peeks out of the burrow and looks up at the sky. There floats the silver moon, round as a warm little loaf of bread. \"Why is it so round?\" {name} wonders quietly. The air smells of dew and sleepy flowers. The grass rustles ever so softly, as if whispering an evening tale. A curious little nose twitches and twitches.",
+      "audio": "en_p02.mp3"
     },
     {
       "image": "p03.jpg",
-      "text": "Higher up, the stars are waking one by one — blink, blink, blink. The little stars wink at one another, as if playing a quiet evening game. Who lights all those tiny lanterns? {name} blinks back and wants so, so much to know. The riddle feels tickly inside, like the brush of a tiny feather. \"One day I will find out for sure,\" {name} whispers to the sky."
+      "text": "Higher up, the stars are waking one by one — blink, blink, blink. The little stars wink at one another, as if playing a quiet evening game. Who lights all those tiny lanterns? {name} blinks back and wants so, so much to know. The riddle feels tickly inside, like the brush of a tiny feather. \"One day I will find out for sure,\" {name} whispers to the sky.",
+      "audio": "en_p03.mp3"
     },
     {
       "image": "p04.jpg",
-      "text": "Then one evening, something wonderful happens. A silver moonbeam slides down from the sky and unrolls like a shining path, right from the burrow's doorstep. The moonbeam gently tickles little whiskers, and they sparkle with silver. The path shimmers and seems to whisper: \"Come along, I will show you the sky.\" A little heart beats happily: thump-thump, thump-thump. {name} stands very still on the doorstep, listening to that soft silver call."
+      "text": "Then one evening, something wonderful happens. A silver moonbeam slides down from the sky and unrolls like a shining path, right from the burrow's doorstep. The moonbeam gently tickles little whiskers, and they sparkle with silver. The path shimmers and seems to whisper: \"Come along, I will show you the sky.\" A little heart beats happily: thump-thump, thump-thump. {name} stands very still on the doorstep, listening to that soft silver call.",
+      "audio": "en_p04.mp3"
     },
     {
       "image": "p05.jpg",
-      "text": "{name} touches the path with one careful paw — it feels warm, like a grandmother's soft shawl. The path chimes softly under that little paw, like tiny faraway bells. \"I am holding you, soft and gentle,\" it whispers. One quiet step, then another. {name} smiles and steps along more bravely. The path sways gently like a cradle and carries that little mouse up, up, up."
+      "text": "{name} touches the path with one careful paw — it feels warm, like a grandmother's soft shawl. The path chimes softly under that little paw, like tiny faraway bells. \"I am holding you, soft and gentle,\" it whispers. One quiet step, then another. {name} smiles and steps along more bravely. The path sways gently like a cradle and carries that little mouse up, up, up.",
+      "audio": "en_p05.mp3"
     },
     {
       "image": "p06.jpg",
-      "text": "The silver path climbs higher, and {name} glides along it, quiet as a whisper, above the sleepy fields. Down below, the daisies are dozing with their white petals folded. The grasses breathe slowly and smell of a warm summer evening. A little breeze gently strokes the fur on a small back. {name} breathes in the sweet smell and smiles. The whole field seems to be breathing in its sleep — slowly and sweetly."
+      "text": "The silver path climbs higher, and {name} glides along it, quiet as a whisper, above the sleepy fields. Down below, the daisies are dozing with their white petals folded. The grasses breathe slowly and smell of a warm summer evening. A little breeze gently strokes the fur on a small back. {name} breathes in the sweet smell and smiles. The whole field seems to be breathing in its sleep — slowly and sweetly.",
+      "audio": "en_p06.mp3"
     },
     {
       "image": "p07.jpg",
-      "text": "Night moths come fluttering out to say hello, with wings as soft as velvet. They circle close, light as little scraps of the night itself. Their wings beat without a single sound, like the eyelashes of the sleepy sky. \"Fly with us,\" they rustle in a whisper. \"We will keep you company.\" \"Thank you, dear friends,\" {name} whispers back. Flying together feels merrier, and the night grows gentler still."
+      "text": "Night moths come fluttering out to say hello, with wings as soft as velvet. They circle close, light as little scraps of the night itself. Their wings beat without a single sound, like the eyelashes of the sleepy sky. \"Fly with us,\" they rustle in a whisper. \"We will keep you company.\" \"Thank you, dear friends,\" {name} whispers back. Flying together feels merrier, and the night grows gentler still.",
+      "audio": "en_p07.mp3"
     },
     {
       "image": "p08.jpg",
-      "text": "{name} sails along beside the moths, high over a silvery meadow. Below, a little river glimmers, and in it rocks another moon — a small, watery one. The watery moon trembles and scatters into silver scales, then gathers back into a little circle. Splish-splash, sigh the sleepy ripples. {name} waves a paw at both moons at once — the one in the sky and the one in the water. The little river sparkles back, ever so kindly."
+      "text": "{name} sails along beside the moths, high over a silvery meadow. Below, a little river glimmers, and in it rocks another moon — a small, watery one. The watery moon trembles and scatters into silver scales, then gathers back into a little circle. Splish-splash, sigh the sleepy ripples. {name} waves a paw at both moons at once — the one in the sky and the one in the water. The little river sparkles back, ever so kindly.",
+      "audio": "en_p08.mp3"
     },
     {
       "image": "p09.jpg",
-      "text": "Farther on, a village is dozing: the warm lights in the little houses go out one by one. Somewhere a lullaby hums softly, and even the breeze hums along. The lullaby is soft as down, and it makes everything feel warm inside. {name} listens and smiles — everyone is going to sleep. \"Goodnight, little houses,\" {name} whispers from up high. The village snuggles sleepily into the hush."
+      "text": "Farther on, a village is dozing: the warm lights in the little houses go out one by one. Somewhere a lullaby hums softly, and even the breeze hums along. The lullaby is soft as down, and it makes everything feel warm inside. {name} listens and smiles — everyone is going to sleep. \"Goodnight, little houses,\" {name} whispers from up high. The village snuggles sleepily into the hush.",
+      "audio": "en_p09.mp3"
     },
     {
       "image": "p10.jpg",
-      "text": "Higher still live the clouds, as fluffy as pillows. The littlest one offers its soft side, and {name} rests there for a little while. Little paws sink into it softly, as if into a feather bed. The cloud smells of summer rain and purrs a quiet little cloud-song. \"How soft you are,\" {name} whispers, stroking the little cloud. A thin tail dangles over the fluffy edge, swaying gently."
+      "text": "Higher still live the clouds, as fluffy as pillows. The littlest one offers its soft side, and {name} rests there for a little while. Little paws sink into it softly, as if into a feather bed. The cloud smells of summer rain and purrs a quiet little cloud-song. \"How soft you are,\" {name} whispers, stroking the little cloud. A thin tail dangles over the fluffy edge, swaying gently.",
+      "audio": "en_p10.mp3"
     },
     {
       "image": "p11.jpg",
-      "text": "And here are the stars — so close now, like fireflies on invisible branches. {name} watches them light up all by themselves: one gently wakes the next with a thin little ray. Ding — and a new light twinkles in the sky. Each new little light chimes softly, like a teeny crystal bell. {name} gives a quiet gasp of wonder. It would be lovely to watch this magic again and again."
+      "text": "And here are the stars — so close now, like fireflies on invisible branches. {name} watches them light up all by themselves: one gently wakes the next with a thin little ray. Ding — and a new light twinkles in the sky. Each new little light chimes softly, like a teeny crystal bell. {name} gives a quiet gasp of wonder. It would be lovely to watch this magic again and again.",
+      "audio": "en_p11.mp3"
     },
     {
       "image": "p12.jpg",
-      "text": "\"We wake up when the sun goes to sleep,\" chimes the littlest star, \"so that no one, no one has to be in the dark.\" \"So that is who watches over the night!\" {name} whispers softly. The little star twinkles back and laughs a thin, silvery laugh. {name} smiles with joy — so that is the secret of the stars. The secret feels warm, all the way to the tip of a little tail."
+      "text": "\"We wake up when the sun goes to sleep,\" chimes the littlest star, \"so that no one, no one has to be in the dark.\" \"So that is who watches over the night!\" {name} whispers softly. The little star twinkles back and laughs a thin, silvery laugh. {name} smiles with joy — so that is the secret of the stars. The secret feels warm, all the way to the tip of a little tail.",
+      "audio": "en_p12.mp3"
     },
     {
       "image": "p13.jpg",
-      "text": "The path leads higher and higher, and ahead a great gentle glow is growing. There it is — the silver moon, round and calm, like a night-lamp over the whole world. The glow does not dazzle — it is gentle, like warm milk. {name} holds their breath at all that beauty. Even little whiskers and soft fur begin to shine with quiet silver. \"How big and kind he is,\" {name} thinks."
+      "text": "The path leads higher and higher, and ahead a great gentle glow is growing. There it is — the silver moon, round and calm, like a night-lamp over the whole world. The glow does not dazzle — it is gentle, like warm milk. {name} holds their breath at all that beauty. Even little whiskers and soft fur begin to shine with quiet silver. \"How big and kind he is,\" {name} thinks.",
+      "audio": "en_p13.mp3"
     },
     {
       "image": "p14.jpg",
-      "text": "Here is the moon's shore — soft, silvery, and warm. {name} steps onto it carefully, and the glow tickles like a fluffy rug under little paws. One step, then another — and {name} laughs softly, because the glow is tickly. \"Come in, come in,\" hums the moon, low and kind, like a faraway bell. That low, gentle voice makes a little heart settle into a slow, steady beat. Everything here smells of hush and silver light."
+      "text": "Here is the moon's shore — soft, silvery, and warm. {name} steps onto it carefully, and the glow tickles like a fluffy rug under little paws. One step, then another — and {name} laughs softly, because the glow is tickly. \"Come in, come in,\" hums the moon, low and kind, like a faraway bell. That low, gentle voice makes a little heart settle into a slow, steady beat. Everything here smells of hush and silver light.",
+      "audio": "en_p14.mp3"
     },
     {
       "image": "p15.jpg",
-      "text": "\"Why are you so round?\" {name} dares to ask. \"So I can shine in every direction at once,\" the moon smiles. \"I am a nightlight for the whole earth — for the forests, the fields, and every teeny-tiny burrow.\" \"For my burrow too?\" {name} asks again. \"For yours — first of all,\" the moon hums kindly. The words feel warm, so warm, deep inside."
+      "text": "\"Why are you so round?\" {name} dares to ask. \"So I can shine in every direction at once,\" the moon smiles. \"I am a nightlight for the whole earth — for the forests, the fields, and every teeny-tiny burrow.\" \"For my burrow too?\" {name} asks again. \"For yours — first of all,\" the moon hums kindly. The words feel warm, so warm, deep inside.",
+      "audio": "en_p15.mp3"
     },
     {
       "image": "p16.jpg",
-      "text": "The moon wraps a warm beam around the little visitor and shows the earth below. The beam is warm, so warm, and it rests on small shoulders light as air. From up here everything looks tiny: the forest like green moss, the river like a silver thread. Everything down below looks so gentle and still, as if the earth were dozing under night's blanket. {name} peers down, searching for the dearest spot of all. A little heart whispers: keep looking, keep looking, it is somewhere near."
+      "text": "The moon wraps a warm beam around the little visitor and shows the earth below. The beam is warm, so warm, and it rests on small shoulders light as air. From up here everything looks tiny: the forest like green moss, the river like a silver thread. Everything down below looks so gentle and still, as if the earth were dozing under night's blanket. {name} peers down, searching for the dearest spot of all. A little heart whispers: keep looking, keep looking, it is somewhere near.",
+      "audio": "en_p16.mp3"
     },
     {
       "image": "p17.jpg",
-      "text": "And there it is — home, the little burrow under the old pear tree. A little heart goes pitter-pat with joy: there it is, there it is! From up here it looks as small as a button, yet it is the warmest place in the whole wide world. {name} knows every little branch of the old pear tree. A gentle light glows in its tiny window: home is waiting. It almost seems the warm smell of home floats all the way up here."
+      "text": "And there it is — home, the little burrow under the old pear tree. A little heart goes pitter-pat with joy: there it is, there it is! From up here it looks as small as a button, yet it is the warmest place in the whole wide world. {name} knows every little branch of the old pear tree. A gentle light glows in its tiny window: home is waiting. It almost seems the warm smell of home floats all the way up here.",
+      "audio": "en_p17.mp3"
     },
     {
       "image": "p18.jpg",
-      "text": "The world is big and full of wonders, {name} thinks quietly, but the coziest place of all is home. \"Thank you, dear Moon,\" {name} whispers in farewell. \"Come visit me in your dreams whenever you like,\" hums the moon. \"But now it is time to sleep.\" The moon nods kindly and puffs a soft breath onto the moonbeam. The silver path turns around — and now it leads home. The path sways softly, as if whispering: home, home."
+      "text": "The world is big and full of wonders, {name} thinks quietly, but the coziest place of all is home. \"Thank you, dear Moon,\" {name} whispers in farewell. \"Come visit me in your dreams whenever you like,\" hums the moon. \"But now it is time to sleep.\" The moon nods kindly and puffs a soft breath onto the moonbeam. The silver path turns around — and now it leads home. The path sways softly, as if whispering: home, home.",
+      "audio": "en_p18.mp3"
     },
     {
       "image": "p19.jpg",
-      "text": "{name} floats down slowly, slowly, like a fluffy little feather. The breeze rocks and cradles, as gentle as kind, careful hands. The stars nod goodbye and twinkle goodnight. \"See you soon, little stars,\" {name} whispers sleepily. The sky grows quiet, so quiet, the way it does before the sweetest sleep. Little eyes grow heavier, and thoughts drift slowly, slowly, like sleepy clouds."
+      "text": "{name} floats down slowly, slowly, like a fluffy little feather. The breeze rocks and cradles, as gentle as kind, careful hands. The stars nod goodbye and twinkle goodnight. \"See you soon, little stars,\" {name} whispers sleepily. The sky grows quiet, so quiet, the way it does before the sweetest sleep. Little eyes grow heavier, and thoughts drift slowly, slowly, like sleepy clouds.",
+      "audio": "en_p19.mp3"
     },
     {
       "image": "p20.jpg",
-      "text": "The clouds wave their fluffy edges, and the moths whisper, \"See you soon.\" The fields are asleep now, and even the river murmurs in a hush. The air grows warm and familiar — it smells of grasses and home. The path carries on, quiet as a lullaby. {name} yawns a sweet, sleepy yawn — once, and then once more. Little paws are already longing for a warm little bed."
+      "text": "The clouds wave their fluffy edges, and the moths whisper, \"See you soon.\" The fields are asleep now, and even the river murmurs in a hush. The air grows warm and familiar — it smells of grasses and home. The path carries on, quiet as a lullaby. {name} yawns a sweet, sleepy yawn — once, and then once more. Little paws are already longing for a warm little bed.",
+      "audio": "en_p20.mp3"
     },
     {
       "image": "p21.jpg",
-      "text": "Here is the dear old doorstep at last. Inside, the burrow smells of dry grass, warm milk, and home. \"I am home,\" {name} whispers happily. {name} snuggles into the soft little bed, and the blanket folds around like warm, gentle wings. The little bed is soft, like that cloud high up in the sky. Little ears still catch, from far away, the quiet chiming of the stars."
+      "text": "Here is the dear old doorstep at last. Inside, the burrow smells of dry grass, warm milk, and home. \"I am home,\" {name} whispers happily. {name} snuggles into the soft little bed, and the blanket folds around like warm, gentle wings. The little bed is soft, like that cloud high up in the sky. Little ears still catch, from far away, the quiet chiming of the stars.",
+      "audio": "en_p21.mp3"
     },
     {
       "image": "p22.jpg",
-      "text": "Little eyes close all by themselves. The burrow is quiet, so quiet, and warm, so warm. High in the sky, the moon shines for every burrow in the world, and the stars rock the sky ever so gently. Somewhere far above, a little star chimes softly — ding — and keeps watch over the night. Sleep comes soft as the silver path, rocking gently, gently. Sleep sweetly now — goodnight."
+      "text": "Little eyes close all by themselves. The burrow is quiet, so quiet, and warm, so warm. High in the sky, the moon shines for every burrow in the world, and the stars rock the sky ever so gently. Somewhere far above, a little star chimes softly — ding — and keeps watch over the night. Sleep comes soft as the silver path, rocking gently, gently. Sleep sweetly now — goodnight.",
+      "audio": "en_p22.mp3"
     }
   ]
 }
