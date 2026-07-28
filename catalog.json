@@ -15,7 +15,7 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/kozenya_hora/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 2
+      "version": 3
     },
     {
       "id": "yenotyk_khmarka",
@@ -23,7 +23,7 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/yenotyk_khmarka/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 2
+      "version": 3
     },
     {
       "id": "lysenya_maliatko",
@@ -31,7 +31,7 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/lysenya_maliatko/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 2
+      "version": 3
     },
     {
       "id": "cherepashka_kvitka",
@@ -71,7 +71,7 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/krotyk_velykyi_svit/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 1
+      "version": 2
     },
     {
       "id": "tsucenya_pomichnyk",
@@ -79,7 +79,7 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/tsucenya_pomichnyk/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 1
+      "version": 2
     },
     {
       "id": "lelechenya_polit",
@@ -87,7 +87,7 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/lelechenya_polit/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 1
+      "version": 2
     },
     {
       "id": "yahnyatko_obiymy",
@@ -103,7 +103,7 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/bilchenya_horishky/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 1
+      "version": 2
     },
     {
       "id": "vydryk_kupil",
@@ -119,7 +119,7 @@
       "baseUrl": "https://vittorioman.github.io/kazkar-content/books/bobrenya_khatka/",
       "cover": "cover.jpg",
       "free": true,
-      "version": 1
+      "version": 2
     }
   ]
 }
