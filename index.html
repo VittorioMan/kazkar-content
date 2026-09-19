@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Казкар — казки для малят</title>
+<meta name="description" content="Казкар — ілюстровані казки з озвученням, де героєм стає ваша дитина. 18 казок, 19 тихих ігор, без реклами й без збору даних. Готується до виходу в Google Play.">
+<!-- Самодостатня сторінка: без JS, без зовнішніх шрифтів, без cookie, без
+     трекінгу, без аналітики — сайт дитячого застосунку живе за тими самими
+     правилами, що й сам застосунок. Стиль спільний зі сторінками політики. -->
+<style>
+  :root {
+    --bg: #FFF6EA; --card: #FFFFFF; --text: #3A2C1D; --muted: #7A6650;
+    /* Глибший за «книжковий» янтар: на кремовому тлі #C97F35 давав лише 2.99:1
+       і не дотягував до WCAG AA для звичайного тексту (заголовки й посилання). */
+    --accent: #A05C1B; --border: #EBD9C2;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1F150C; --card: #2A1E12; --text: #F3E7D7; --muted: #C4AE94;
+      --accent: #E8A35A; --border: #45331F;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px 16px 64px; background: var(--bg); color: var(--text);
+    font: 17px/1.65 Georgia, 'Times New Roman', serif;
+  }
+  main { max-width: 720px; margin: 0 auto; }
+  h1 { font-size: 2.1em; line-height: 1.2; margin: 0.3em 0 0.15em; }
+  h2 { font-size: 1.25em; margin-top: 1.8em; color: var(--accent); }
+  h3 { font-size: 1.05em; margin-top: 1.4em; }
+  p, li { color: var(--text); }
+  .tagline { font-size: 1.15em; color: var(--muted); margin-top: 0; }
+  .meta { color: var(--muted); font-size: 0.9em; }
+  .lang { text-align: right; font-size: 0.9em; margin: 0; }
+  .lang a { color: var(--accent); }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 16px;
+    padding: 16px 20px; margin: 1.2em 0;
+  }
+  .status { font-size: 1.05em; }
+  a { color: var(--accent); }
+  ul { padding-left: 1.3em; }
+  li { margin-bottom: 0.4em; }
+  hr {
+    border: 0; border-top: 1px solid var(--border); margin: 3em 0 0;
+  }
+  footer { margin-top: 2.5em; font-size: 0.9em; color: var(--muted); }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <!-- Перемикач мови першим рядком, як на сторінках політики: без нього
+       англомовний батько бачить лише український екран і мусить догортати. -->
+  <p class="lang"><a href="#en" lang="en" hreflang="en">In English</a></p>
+  <h1>🧸 Казкар</h1>
+  <p class="tagline">Ілюстровані казки з озвученням, де героєм стає ваша дитина.</p>
+
+  <div class="card status">
+    <strong>Статус:</strong> застосунок готується до виходу в Google Play. Дат і
+    обіцянок поки не даємо — щойно він зʼявиться, посилання буде тут.
+  </div>
+
+  <h2>Що це</h2>
+  <p>«Казкар» — невелика добірна бібліотека теплих казок для дітей приблизно 2–8 років,
+  українською та англійською. Дорослий читає разом із дитиною або вмикає озвучення;
+  імʼя дитини підставляється в текст, і казка стає про неї.</p>
+  <p>Це застосунок-книжка, а не сервіс: жодних акаунтів, стрічок, сповіщень і нічого,
+  що тягнуло б дитину повертатися.</p>
+
+  <h2>Що всередині</h2>
+  <ul>
+    <li><strong>18 ілюстрованих казок.</strong> Три з них уже в застосунку й
+      відкриваються одразу, без інтернету; решта завантажуються й далі читаються
+      офлайн.</li>
+    <li><strong>Кожну сторінку озвучено заздалегідь підготовленим голосом</strong> —
+      окремо українською й окремо англійською. Це готовий аудіофайл (голос синтезовано
+      наперед, не запис мікрофоном), а не голос-читалка вашого телефона; якщо запису
+      для сторінки немає, читає голос пристрою.</li>
+    <li><strong>Імʼя дитини в тексті.</strong> Необовʼязкове: можна не вводити зовсім
+      або вимкнути підстановку — тоді казка читається з типовим імʼям героя.</li>
+    <li><strong>19 тихих міні-ігор</strong> — кольори, форми, цифри, звірята, а також
+      окремі вечірні ігри «перед сном». Без таймерів, без програшів і без «ще один
+      рівень».</li>
+    <li><strong>Світла й темна тема</strong>, регульований темп читання, великі кнопки
+      й проста навігація, у якій дитина не губиться.</li>
+  </ul>
+
+  <h2>Приватність і безпека</h2>
+  <ul>
+    <li><strong>Нуль зібраних даних.</strong> Імʼя й вік дитини лишаються на пристрої
+      і нікуди не надсилаються.</li>
+    <li><strong>Без реклами.</strong> Зовсім — і вона не зʼявиться.</li>
+    <li><strong>Без аналітики й стеження.</strong> У застосунку немає жодного SDK аналітики, реклами чи звітів про збої.</li>
+    <li><strong>Батьківський гейт.</strong> Налаштування й будь-яке зовнішнє посилання
+      — за простим завданням для дорослого.</li>
+    <li>Інтернет потрібен лише для завантаження самих книжок.</li>
+  </ul>
+  <p>Подробиці — у політиці приватності:
+  <a href="privacy/">українською</a> · <a href="privacy/en.html">English</a>.</p>
+
+  <h2 id="contact">Звʼязок</h2>
+  <!-- Контактна адреса: ЄДИНЕ місце на сторінці. -->
+  <p>Питання, побажання, повідомлення про помилку:
+  <a href="mailto:v.pidlisovskyi@gmail.com">v.pidlisovskyi@gmail.com</a>.</p>
+
+  <hr>
+
+  <h2 id="en" lang="en">In English</h2>
+  <div lang="en">
+    <p><strong>Kazkar</strong> is a small, curated library of warm illustrated stories
+    for children roughly 2–8 years old, in Ukrainian and English. The child's name is
+    placed into the text, so the story becomes about them.</p>
+    <ul>
+      <li><strong>18 illustrated stories</strong> — three are built into the app and
+        open straight away without internet; the rest download once and then read
+        offline.</li>
+      <li><strong>Every page is narrated by a pre-rendered voice</strong> (synthesized
+        in advance, not a microphone recording), separately in Ukrainian and in
+        English. Where a recording is missing, the device's own voice reads the
+        page.</li>
+      <li><strong>The child's name is optional</strong> — you can leave it out, or turn
+        the substitution off and keep the book's default hero name.</li>
+      <li><strong>19 quiet mini-games</strong> — colours, shapes, numbers, animals, plus
+        a few bedtime ones. No timers, no losing, no "one more level".</li>
+      <li>Light and dark theme, adjustable reading speed, big tap targets.</li>
+    </ul>
+    <p><strong>No data collected, no ads, no analytics, no accounts.</strong> The
+    child's name and age stay on the device. Settings and any external link sit behind
+    a parental gate. The internet is used only to download the books themselves.</p>
+    <p>Privacy policy: <a href="privacy/en.html">English</a> ·
+    <a href="privacy/">українською</a>. Contact:
+    <a href="#contact">the address above</a>.</p>
+    <p class="meta">Status: preparing for release on Google Play. No dates promised
+    yet.</p>
+  </div>
+
+  <footer>
+    <p>Незалежний розробник, Україна. Цей сайт не збирає жодних даних: тут немає ні
+    cookie, ні аналітики, ні сторонніх скриптів і шрифтів.</p>
+  </footer>
+</main>
+</body>
+</html>
