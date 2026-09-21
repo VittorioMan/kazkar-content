@@ -1,0 +1,55 @@
+name: cleanup-pages-artifact
+
+# Legacy-збірка GitHub Pages (з гілки deploy) на кожен деплой вантажить
+# артефакт `github-pages` = увесь сайт (~365 МіБ: 672 mp3 + 351 jpg) і тримає
+# його добу. Квота Actions storage акаунта — 0,5 ГБ-міс, рахується ПОГОДИННО,
+# тож одна доба одного деплою = 2,6 % місячної квоти (вересень 2026: 10 пушів
+# у main = чверть квоти, акаунт дійшов до 90 %). Після завершення деплою
+# артефакт нікому не потрібен — сайт уже роздається з Pages, — тож стираємо
+# його одразу, і деплой коштує хвилини замість доби.
+#
+# Тригери навмисно надлишкові: `workflow_run` по вбудованому workflow Pages
+# (у API він `pages-build-deployment`, в UI — «pages build and deployment»,
+# перелічено обидві назви), `page_build` і щогодинний cron як страховка
+# (репо публічне — хвилини безкоштовні). Джоб ідемпотентний і видаляє лише
+# артефакти ЗАВЕРШЕНИХ запусків: стерти артефакт, поки deploy-job ще його не
+# забрав, = зламати деплой.
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment", "pages build and deployment"]
+    types: [completed]
+  page_build:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+# Видалення артефактів потребує actions: write; решта токену — none.
+permissions:
+  actions: write
+
+concurrency:
+  group: cleanup-pages-artifact
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Стерти артефакти github-pages завершених деплоїв
+        run: |
+          set -euo pipefail
+          gh api 'repos/{owner}/{repo}/actions/artifacts?name=github-pages&per_page=100' --paginate \
+            --jq '.artifacts[] | select(.expired | not) | "\(.id) \(.workflow_run.id) \(.size_in_bytes)"' \
+          | while read -r artifact run size; do
+              status=$(gh api "repos/{owner}/{repo}/actions/runs/$run" --jq .status)
+              if [ "$status" = "completed" ]; then
+                gh api -X DELETE "repos/{owner}/{repo}/actions/artifacts/$artifact"
+                echo "стерто artifact $artifact (run $run, $((size / 1048576)) МіБ)"
+              else
+                echo "пропущено artifact $artifact: run $run ще '$status'"
+              fi
+            done
