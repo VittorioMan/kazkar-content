@@ -43,9 +43,12 @@ jobs:
         run: |
           set -euo pipefail
           gh api 'repos/{owner}/{repo}/actions/artifacts?name=github-pages&per_page=100' --paginate \
-            --jq '.artifacts[] | select(.expired | not) | "\(.id) \(.workflow_run.id) \(.size_in_bytes)"' \
+            --jq '.artifacts[] | select((.expired | not) and .workflow_run != null) | "\(.id) \(.workflow_run.id) \(.size_in_bytes)"' \
           | while read -r artifact run size; do
-              status=$(gh api "repos/{owner}/{repo}/actions/runs/$run" --jq .status)
+              # Недоступний run (404 після видалення, транзієнтна помилка) — не
+              # валити цикл: артефакт дочекається наступного запуску або протухне.
+              status=$(gh api "repos/{owner}/{repo}/actions/runs/$run" --jq .status) \
+                || { echo "пропущено artifact $artifact: run $run недоступний"; continue; }
               if [ "$status" = "completed" ]; then
                 gh api -X DELETE "repos/{owner}/{repo}/actions/artifacts/$artifact"
                 echo "стерто artifact $artifact (run $run, $((size / 1048576)) МіБ)"
